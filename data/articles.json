@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T22:46:12+08:00",
+  "updatedAt": "2026-09-25T22:48:24+08:00",
   "sources": [
     {
       "id": "central",
@@ -7,7 +7,7 @@
       "url": "https://www.ntbca.gov.tw/Rss/3c844e426e9c4b5ebcaaa18694d7e230",
       "status": "ok",
       "count": 80,
-      "lastSuccess": "2026-09-25T22:46:12+08:00"
+      "lastSuccess": "2026-09-25T22:48:24+08:00"
     },
     {
       "id": "kaohsiung",
@@ -15,7 +15,7 @@
       "url": "https://www.ntbk.gov.tw/Rss/8edee6a2f90d4254a5e8d38c1db38137",
       "status": "ok",
       "count": 209,
-      "lastSuccess": "2026-09-25T22:46:12+08:00"
+      "lastSuccess": "2026-09-25T22:48:24+08:00"
     },
     {
       "id": "mof",
@@ -24,7 +24,7 @@
       "taxOnly": true,
       "status": "ok",
       "count": 907,
-      "lastSuccess": "2026-09-25T22:46:12+08:00"
+      "lastSuccess": "2026-09-25T22:48:24+08:00"
     },
     {
       "id": "north",
@@ -32,7 +32,7 @@
       "url": "https://www.ntbna.gov.tw/Rss/374fe8c4b18e48c691a6806ac02b9984",
       "status": "ok",
       "count": 181,
-      "lastSuccess": "2026-09-25T22:46:12+08:00"
+      "lastSuccess": "2026-09-25T22:48:24+08:00"
     },
     {
       "id": "south",
@@ -40,7 +40,7 @@
       "url": "https://www.ntbsa.gov.tw/Rss/5e0e49a811b74b50b5a6486d38374285",
       "status": "ok",
       "count": 82,
-      "lastSuccess": "2026-09-25T22:46:12+08:00"
+      "lastSuccess": "2026-09-25T22:48:24+08:00"
     },
     {
       "id": "taipei",
@@ -48,7 +48,7 @@
       "url": "https://www.ntbt.gov.tw/Rss/41ae3594197f4f69b47753ce08188516",
       "status": "ok",
       "count": 297,
-      "lastSuccess": "2026-09-25T22:46:12+08:00"
+      "lastSuccess": "2026-09-25T22:48:24+08:00"
     }
   ],
   "articles": [
