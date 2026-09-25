@@ -1,0 +1,8 @@
+[
+  {"id":"mof","name":"財政部","url":"https://www.mof.gov.tw/Rss/384fb3077bb349ea973e7fc6f13b6974","taxOnly":true},
+  {"id":"taipei","name":"臺北國稅局","url":"https://www.ntbt.gov.tw/Rss/41ae3594197f4f69b47753ce08188516"},
+  {"id":"north","name":"北區國稅局","url":"https://www.ntbna.gov.tw/Rss/374fe8c4b18e48c691a6806ac02b9984"},
+  {"id":"central","name":"中區國稅局","url":"https://www.ntbca.gov.tw/Rss/3c844e426e9c4b5ebcaaa18694d7e230"},
+  {"id":"south","name":"南區國稅局","url":"https://www.ntbsa.gov.tw/Rss/5e0e49a811b74b50b5a6486d38374285"},
+  {"id":"kaohsiung","name":"高雄國稅局","url":"https://www.ntbk.gov.tw/Rss/8edee6a2f90d4254a5e8d38c1db38137"}
+]

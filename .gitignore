@@ -1,0 +1,8 @@
+__pycache__/
+dist/
+.env
+.env.*
+!.env.example
+.firecrawl/
+.sites-runtime/
+*.tmp

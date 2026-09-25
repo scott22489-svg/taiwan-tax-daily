@@ -1,0 +1,58 @@
+name: 每日稅務更新與發布
+on:
+  schedule:
+    # UTC 23:00 = next day 07:00 in Taiwan. GitHub may delay scheduled runs.
+    - cron: '0 23 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+permissions:
+  contents: read
+concurrency:
+  group: tax-daily-pages
+  cancel-in-progress: false
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: 測試資料處理
+        run: python -m unittest discover -s tests -v
+      - name: 收集官方消息
+        run: python scripts/update.py
+      - name: 建立網站
+        run: python scripts/build.py
+      - name: 保存歷史資料
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data/articles.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'Update official tax news archive'
+            git push origin HEAD:main
+          fi
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+  deploy:
+    needs: update
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/configure-pages@v5
+      - name: 發布 GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
