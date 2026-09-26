@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-09-25T22:48:24+08:00",
+  "updatedAt": "2026-09-26T09:07:36+08:00",
   "sources": [
     {
       "id": "central",
       "name": "中區國稅局",
       "url": "https://www.ntbca.gov.tw/Rss/3c844e426e9c4b5ebcaaa18694d7e230",
       "status": "ok",
-      "count": 80,
-      "lastSuccess": "2026-09-25T22:48:24+08:00"
+      "count": 78,
+      "lastSuccess": "2026-09-26T09:07:36+08:00"
     },
     {
       "id": "kaohsiung",
       "name": "高雄國稅局",
       "url": "https://www.ntbk.gov.tw/Rss/8edee6a2f90d4254a5e8d38c1db38137",
       "status": "ok",
-      "count": 209,
-      "lastSuccess": "2026-09-25T22:48:24+08:00"
+      "count": 206,
+      "lastSuccess": "2026-09-26T09:07:36+08:00"
     },
     {
       "id": "mof",
@@ -23,16 +23,16 @@
       "url": "https://www.mof.gov.tw/Rss/384fb3077bb349ea973e7fc6f13b6974",
       "taxOnly": true,
       "status": "ok",
-      "count": 907,
-      "lastSuccess": "2026-09-25T22:48:24+08:00"
+      "count": 902,
+      "lastSuccess": "2026-09-26T09:07:36+08:00"
     },
     {
       "id": "north",
       "name": "北區國稅局",
       "url": "https://www.ntbna.gov.tw/Rss/374fe8c4b18e48c691a6806ac02b9984",
       "status": "ok",
-      "count": 181,
-      "lastSuccess": "2026-09-25T22:48:24+08:00"
+      "count": 180,
+      "lastSuccess": "2026-09-26T09:07:36+08:00"
     },
     {
       "id": "south",
@@ -40,18 +40,31 @@
       "url": "https://www.ntbsa.gov.tw/Rss/5e0e49a811b74b50b5a6486d38374285",
       "status": "ok",
       "count": 82,
-      "lastSuccess": "2026-09-25T22:48:24+08:00"
+      "lastSuccess": "2026-09-26T09:07:36+08:00"
     },
     {
       "id": "taipei",
       "name": "臺北國稅局",
       "url": "https://www.ntbt.gov.tw/Rss/41ae3594197f4f69b47753ce08188516",
       "status": "ok",
-      "count": 297,
-      "lastSuccess": "2026-09-25T22:48:24+08:00"
+      "count": 296,
+      "lastSuccess": "2026-09-26T09:07:36+08:00"
     }
   ],
   "articles": [
+    {
+      "id": "5045b05f46463452f246",
+      "url": "https://www.mof.gov.tw/singlehtml/384fb3077bb349ea973e7fc6f13b6974?cntId=089480959fc049e392bcdacf0b5eacc1",
+      "title": "115年7-8月期統一發票中獎號碼",
+      "date": "2026-09-25",
+      "source": "財政部",
+      "sourceId": "mof",
+      "category": "營業稅",
+      "summary": "115年7-8月期統一發票中獎號碼於今(25)日下午1時在三立iNEWS新聞台頻道，以現場直播方式順利開出特別獎、特獎中獎號碼各1組、頭獎至六獎中獎號碼3組，並開出雲端發票專屬獎100萬元獎30組、2,000元獎16,000組、800元獎10萬組及500元獎435萬組。 本期開出特別獎獎金新臺幣(以下同)1,000萬元中獎號碼為「89996565」，特獎獎金200萬元中獎號碼為「91098182」…",
+      "summaryType": "官方摘要節錄",
+      "firstSeen": "2026-09-26T09:07:36+08:00",
+      "contentHash": "2f30d9ece8d9c3a7339b7c952cdd139e2e39b2d89bfbacd34fc05e1e161b5ad0"
+    },
     {
       "id": "9725509bf0a8956425f9",
       "url": "https://www.ntbt.gov.tw/singlehtml/41ae3594197f4f69b47753ce08188516?cntId=cbac4bf175b048c1a44881aab7b518cf",
