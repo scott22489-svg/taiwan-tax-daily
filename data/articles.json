@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-26T09:07:36+08:00",
+  "updatedAt": "2026-09-27T09:03:30+08:00",
   "sources": [
     {
       "id": "central",
@@ -7,7 +7,7 @@
       "url": "https://www.ntbca.gov.tw/Rss/3c844e426e9c4b5ebcaaa18694d7e230",
       "status": "ok",
       "count": 78,
-      "lastSuccess": "2026-09-26T09:07:36+08:00"
+      "lastSuccess": "2026-09-27T09:03:30+08:00"
     },
     {
       "id": "kaohsiung",
@@ -15,7 +15,7 @@
       "url": "https://www.ntbk.gov.tw/Rss/8edee6a2f90d4254a5e8d38c1db38137",
       "status": "ok",
       "count": 206,
-      "lastSuccess": "2026-09-26T09:07:36+08:00"
+      "lastSuccess": "2026-09-27T09:03:30+08:00"
     },
     {
       "id": "mof",
@@ -23,24 +23,24 @@
       "url": "https://www.mof.gov.tw/Rss/384fb3077bb349ea973e7fc6f13b6974",
       "taxOnly": true,
       "status": "ok",
-      "count": 902,
-      "lastSuccess": "2026-09-26T09:07:36+08:00"
+      "count": 901,
+      "lastSuccess": "2026-09-27T09:03:30+08:00"
     },
     {
       "id": "north",
       "name": "北區國稅局",
       "url": "https://www.ntbna.gov.tw/Rss/374fe8c4b18e48c691a6806ac02b9984",
       "status": "ok",
-      "count": 180,
-      "lastSuccess": "2026-09-26T09:07:36+08:00"
+      "count": 179,
+      "lastSuccess": "2026-09-27T09:03:30+08:00"
     },
     {
       "id": "south",
       "name": "南區國稅局",
       "url": "https://www.ntbsa.gov.tw/Rss/5e0e49a811b74b50b5a6486d38374285",
       "status": "ok",
-      "count": 82,
-      "lastSuccess": "2026-09-26T09:07:36+08:00"
+      "count": 83,
+      "lastSuccess": "2026-09-27T09:03:30+08:00"
     },
     {
       "id": "taipei",
@@ -48,7 +48,7 @@
       "url": "https://www.ntbt.gov.tw/Rss/41ae3594197f4f69b47753ce08188516",
       "status": "ok",
       "count": 296,
-      "lastSuccess": "2026-09-26T09:07:36+08:00"
+      "lastSuccess": "2026-09-27T09:03:30+08:00"
     }
   ],
   "articles": [
@@ -389,6 +389,19 @@
       "summaryType": "官方摘要節錄",
       "firstSeen": "2026-09-25T22:46:12+08:00",
       "contentHash": "92f4794d663cd108c3d60aabc7dd7d22cab62e3b95e244186161badebbb0c101"
+    },
+    {
+      "id": "fa16095414bd3ff273fe",
+      "url": "https://www.ntbsa.gov.tw/singlehtml/5e0e49a811b74b50b5a6486d38374285?cntId=0a7c658603f8428d97a603ee547c2254",
+      "title": "南區國稅局嘉義市分局舉辦115年度營業稅申報實務線上講習會",
+      "date": "2026-09-21",
+      "source": "南區國稅局",
+      "sourceId": "south",
+      "category": "營業稅",
+      "summary": "財政部南區國稅局嘉義市分局將於115年9月30日上午10時至10時50分辦理115年度營業稅申報實務線上講習會，透過網路直播，提供最新營業稅申報資訊及實務操作說明，歡迎營業人、相關公會及稅務從業人員以及有興趣的民眾踴躍報名參加。 該分局表示，本次課程將以營業稅實際案例及常見問題為主軸，說明申報過程中應注意事項，並介紹電子發票相關應用，協助營業人掌握申報重點及數位化作業方式，提升稅務處理效率，減少申…",
+      "summaryType": "官方摘要節錄",
+      "firstSeen": "2026-09-27T09:03:30+08:00",
+      "contentHash": "390ea9537a1e570694988d31226c684b6c50f725e0d09cbbe32460666d97d259"
     },
     {
       "id": "85ec2b5dcc173a046b8f",
