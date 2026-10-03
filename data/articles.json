@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T09:56:30+08:00",
+  "updatedAt": "2026-10-03T09:40:07+08:00",
   "sources": [
     {
       "id": "central",
@@ -7,15 +7,15 @@
       "url": "https://www.ntbca.gov.tw/Rss/3c844e426e9c4b5ebcaaa18694d7e230",
       "status": "ok",
       "count": 87,
-      "lastSuccess": "2026-10-02T09:56:30+08:00"
+      "lastSuccess": "2026-10-03T09:40:07+08:00"
     },
     {
       "id": "kaohsiung",
       "name": "高雄國稅局",
       "url": "https://www.ntbk.gov.tw/Rss/8edee6a2f90d4254a5e8d38c1db38137",
       "status": "ok",
-      "count": 203,
-      "lastSuccess": "2026-10-02T09:56:30+08:00"
+      "count": 204,
+      "lastSuccess": "2026-10-03T09:40:07+08:00"
     },
     {
       "id": "mof",
@@ -23,35 +23,61 @@
       "url": "https://www.mof.gov.tw/Rss/384fb3077bb349ea973e7fc6f13b6974",
       "taxOnly": true,
       "status": "ok",
-      "count": 893,
-      "lastSuccess": "2026-10-02T09:56:30+08:00"
+      "count": 891,
+      "lastSuccess": "2026-10-03T09:40:07+08:00"
     },
     {
       "id": "north",
       "name": "北區國稅局",
       "url": "https://www.ntbna.gov.tw/Rss/374fe8c4b18e48c691a6806ac02b9984",
       "status": "ok",
-      "count": 181,
-      "lastSuccess": "2026-10-02T09:56:30+08:00"
+      "count": 180,
+      "lastSuccess": "2026-10-03T09:40:07+08:00"
     },
     {
       "id": "south",
       "name": "南區國稅局",
       "url": "https://www.ntbsa.gov.tw/Rss/5e0e49a811b74b50b5a6486d38374285",
       "status": "ok",
-      "count": 65,
-      "lastSuccess": "2026-10-02T09:56:30+08:00"
+      "count": 59,
+      "lastSuccess": "2026-10-03T09:40:07+08:00"
     },
     {
       "id": "taipei",
       "name": "臺北國稅局",
       "url": "https://www.ntbt.gov.tw/Rss/41ae3594197f4f69b47753ce08188516",
       "status": "ok",
-      "count": 297,
-      "lastSuccess": "2026-10-02T09:56:30+08:00"
+      "count": 295,
+      "lastSuccess": "2026-10-03T09:40:07+08:00"
     }
   ],
   "articles": [
+    {
+      "id": "dcae73dc8cf7ec45651c",
+      "url": "https://www.ntbk.gov.tw/singlehtml/8edee6a2f90d4254a5e8d38c1db38137?cntId=4167a8a4aaf04c089a29b7c447212abf",
+      "title": "債權無償轉讓給子女，應申報贈與稅",
+      "date": "2026-10-02",
+      "source": "高雄國稅局",
+      "sourceId": "kaohsiung",
+      "category": "遺產及贈與稅",
+      "summary": "納稅義務人甲君來電詢問，將自己的債權無償移轉給子女，要不要申報贈與稅? 財政部高雄國稅局表示，將自己的債權無償移轉給子女，且經其允受，即符合遺產及贈與稅法第4條規定，將有財產價值的權利無償給予他人，核屬贈與行為；如一年內贈與財產總額超過免稅額，依遺產及贈與稅法第24條規定，應於贈與行為發生後30日內辦理贈與稅申報。 該局舉例說明，甲君於113年間擔任A公司股東時，借款新臺幣(下同)1,000萬元予…",
+      "summaryType": "官方摘要節錄",
+      "firstSeen": "2026-10-03T09:40:07+08:00",
+      "contentHash": "f9f427607e28941a92bde754f457edbd8adbe905a5fbf2546d3ae02a9aff5e2a"
+    },
+    {
+      "id": "b53ea3fa328119b43319",
+      "url": "https://www.mof.gov.tw/singlehtml/384fb3077bb349ea973e7fc6f13b6974?cntId=7d78393dc6a74db5abd9491efbbba750",
+      "title": "國慶日連續假期，臺北關通關服務不打烊",
+      "date": "2026-10-02",
+      "source": "財政部",
+      "sourceId": "mof",
+      "category": "其他稅務",
+      "summary": "臺北關表示，為維持115年國慶日連續假期期間（10月9日至11日）入出境旅客及進出口貨物通關順暢，該關秉持為民服務精神，採取下列措施： 一、 24小時通關服務：旅客行李由稽查組或松山分關辦理；快遞及機放貨物由快遞機放組、竹圍分關或松山分關辦理。 二、 一般進、出口（含保稅）貨物通關案件，每日上午8時30分至下午4時30分，由快遞機放組快遞一、二課、松山分關業務課及竹圍分關儀檢課辦理，視同正常辦公時…",
+      "summaryType": "官方摘要節錄",
+      "firstSeen": "2026-10-03T09:40:07+08:00",
+      "contentHash": "039f325a45a66881011f2646d33bb84fec271c1d7a2a4ef1a5938d4395a0abca"
+    },
     {
       "id": "584be4e450de9041431c",
       "url": "https://www.ntbt.gov.tw/singlehtml/41ae3594197f4f69b47753ce08188516?cntId=b0ead478f51642b78650a6395b33d247",
