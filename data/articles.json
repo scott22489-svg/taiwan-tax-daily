@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T10:38:56+08:00",
+  "updatedAt": "2026-10-07T09:59:41+08:00",
   "sources": [
     {
       "id": "central",
@@ -7,15 +7,15 @@
       "url": "https://www.ntbca.gov.tw/Rss/3c844e426e9c4b5ebcaaa18694d7e230",
       "status": "ok",
       "count": 86,
-      "lastSuccess": "2026-10-06T10:38:56+08:00"
+      "lastSuccess": "2026-10-07T09:59:41+08:00"
     },
     {
       "id": "kaohsiung",
       "name": "高雄國稅局",
       "url": "https://www.ntbk.gov.tw/Rss/8edee6a2f90d4254a5e8d38c1db38137",
       "status": "ok",
-      "count": 204,
-      "lastSuccess": "2026-10-06T10:38:56+08:00"
+      "count": 205,
+      "lastSuccess": "2026-10-07T09:59:41+08:00"
     },
     {
       "id": "mof",
@@ -23,8 +23,8 @@
       "url": "https://www.mof.gov.tw/Rss/384fb3077bb349ea973e7fc6f13b6974",
       "taxOnly": true,
       "status": "ok",
-      "count": 896,
-      "lastSuccess": "2026-10-06T10:38:56+08:00"
+      "count": 895,
+      "lastSuccess": "2026-10-07T09:59:41+08:00"
     },
     {
       "id": "north",
@@ -32,7 +32,7 @@
       "url": "https://www.ntbna.gov.tw/Rss/374fe8c4b18e48c691a6806ac02b9984",
       "status": "ok",
       "count": 180,
-      "lastSuccess": "2026-10-06T10:38:56+08:00"
+      "lastSuccess": "2026-10-07T09:59:41+08:00"
     },
     {
       "id": "south",
@@ -40,7 +40,7 @@
       "url": "https://www.ntbsa.gov.tw/Rss/5e0e49a811b74b50b5a6486d38374285",
       "status": "ok",
       "count": 58,
-      "lastSuccess": "2026-10-06T10:38:56+08:00"
+      "lastSuccess": "2026-10-07T09:59:41+08:00"
     },
     {
       "id": "taipei",
@@ -48,10 +48,62 @@
       "url": "https://www.ntbt.gov.tw/Rss/41ae3594197f4f69b47753ce08188516",
       "status": "ok",
       "count": 296,
-      "lastSuccess": "2026-10-06T10:38:56+08:00"
+      "lastSuccess": "2026-10-07T09:59:41+08:00"
     }
   ],
   "articles": [
+    {
+      "id": "88c73a8ff6493916f80f",
+      "url": "https://www.ntbt.gov.tw/singlehtml/41ae3594197f4f69b47753ce08188516?cntId=4124a099ecec4ceebb071b6be7060b48",
+      "title": "納稅義務人依法提起訴願，並繳納復查決定應納稅額3分之1，暫緩移送強制執行",
+      "date": "2026-10-06",
+      "source": "臺北國稅局",
+      "sourceId": "taipei",
+      "category": "其他稅務",
+      "summary": "財政部臺北國稅局表示，納稅義務人對於稅捐稽徵機關復查決定之應納稅額仍有不服，依法得提起訴願，惟不因提起訴願程序而停止執行。倘納稅義務人提起訴願，同時繳納復查決定應納稅額3分之1者，可暫緩移送執行分署強制執行。 該局指出，依訴願法第93條第1項規定，稅捐處分之執行，除法律另有規定外，不因提起訴願而停止。另依稅捐稽徵法第39條規定，納稅義務人應納稅捐，於繳納期間屆滿30日後仍未繳納者，由稅捐稽徵機關移…",
+      "summaryType": "官方摘要節錄",
+      "firstSeen": "2026-10-07T09:59:41+08:00",
+      "contentHash": "297cae89f8febd180199bc84d59f28859532d5c1f31e08a945ce159792c79926"
+    },
+    {
+      "id": "e67a543d4a2297e3ee92",
+      "url": "https://www.ntbk.gov.tw/singlehtml/8edee6a2f90d4254a5e8d38c1db38137?cntId=4f13f27e9844425d91382ec6163d95f6",
+      "title": "機關團體應注意結餘款使用計畫之執行進度與期限",
+      "date": "2026-10-06",
+      "source": "高雄國稅局",
+      "sourceId": "kaohsiung",
+      "category": "營利事業所得稅",
+      "summary": "機關團體當年度用於創設目的有關活動之支出未達收入60%，且結餘款超過新臺幣(下同)50萬元，依「教育文化公益慈善機關或團體免納所得稅適用標準」（以下簡稱免稅標準）第2條第1項第8款第2目規定，報經主管機關查明同意，就該結餘款編列用於次年度起算4年內之使用計畫者，應依該計畫確實執行。 財政部高雄國稅局說明，機關團體若有無法依計畫項目或金額使用結餘款之情形，依免稅標準第2條第4項規定，應於原使用計畫屆…",
+      "summaryType": "官方摘要節錄",
+      "firstSeen": "2026-10-07T09:59:41+08:00",
+      "contentHash": "fa3216f848f62a49b8bc009b69aa59d4a8f3dd81d77f48b12ab8e2dd387daea8"
+    },
+    {
+      "id": "12bc59a02fe22675207c",
+      "url": "https://www.mof.gov.tw/singlehtml/384fb3077bb349ea973e7fc6f13b6974?cntId=34543d219741439483a70ad70aece96a",
+      "title": "納稅義務人依法提起訴願，並繳納復查決定應納稅額3分之1，暫緩移送強制執行",
+      "date": "2026-10-06",
+      "source": "財政部",
+      "sourceId": "mof",
+      "category": "其他稅務",
+      "summary": "財政部臺北國稅局表示，納稅義務人對於稅捐稽徵機關復查決定之應納稅額仍有不服，依法得提起訴願，惟不因提起訴願程序而停止執行。倘納稅義務人提起訴願，同時繳納復查決定應納稅額3分之1者，可暫緩移送執行分署強制執行。 該局指出，依訴願法第93條第1項規定，稅捐處分之執行，除法律另有規定外，不因提起訴願而停止。另依稅捐稽徵法第39條規定，納稅義務人應納稅捐，於繳納期間屆滿30日後仍未繳納者，由稅捐稽徵機關移…",
+      "summaryType": "官方摘要節錄",
+      "firstSeen": "2026-10-07T09:59:41+08:00",
+      "contentHash": "297cae89f8febd180199bc84d59f28859532d5c1f31e08a945ce159792c79926"
+    },
+    {
+      "id": "bf2ccb5eee65abbc7a8a",
+      "url": "https://www.mof.gov.tw/singlehtml/384fb3077bb349ea973e7fc6f13b6974?cntId=1fd348b6b12d4bd18c23f7b22901d4f8",
+      "title": "善用估價預先審核，正確申報進口貨物完稅價格",
+      "date": "2026-10-06",
+      "source": "財政部",
+      "sourceId": "mof",
+      "category": "其他稅務",
+      "summary": "基隆關表示，納稅義務人如對進口貨物交易過程中所支付各項費用應否計入完稅價格存有疑義，可善用進口貨物估價預先審核機制，以利正確申報，保障自身權益。 基隆關說明，依據關稅法第29條第3項規定，進口貨物實付或應付價格，如未計入由買方負擔佣金、手續費、容器及包裝費用、無償或減價提供的工程設計勞務、應支付的權利金與報酬，以及運至輸入口岸的運費、保險費等，均應將其計入完稅價格。實務上常有納稅義務人因不諳相關規…",
+      "summaryType": "官方摘要節錄",
+      "firstSeen": "2026-10-07T09:59:41+08:00",
+      "contentHash": "ace7d7ac15e34db7e17120c74be05c00f3ea33e37016926cc5c41630028f401f"
+    },
     {
       "id": "a29a4538f6779aa6658c",
       "url": "https://www.ntbt.gov.tw/singlehtml/41ae3594197f4f69b47753ce08188516?cntId=f2d4c92b7ce94e8aab3745d9183a71cc",
