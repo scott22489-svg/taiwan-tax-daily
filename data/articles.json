@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-10-13T11:19:15+08:00",
+  "updatedAt": "2026-10-14T09:33:14+08:00",
   "sources": [
     {
       "id": "central",
       "name": "中區國稅局",
       "url": "https://www.ntbca.gov.tw/Rss/3c844e426e9c4b5ebcaaa18694d7e230",
       "status": "ok",
-      "count": 87,
-      "lastSuccess": "2026-10-13T11:19:15+08:00"
+      "count": 86,
+      "lastSuccess": "2026-10-14T09:33:14+08:00"
     },
     {
       "id": "kaohsiung",
       "name": "高雄國稅局",
       "url": "https://www.ntbk.gov.tw/Rss/8edee6a2f90d4254a5e8d38c1db38137",
       "status": "ok",
-      "count": 207,
-      "lastSuccess": "2026-10-13T11:19:15+08:00"
+      "count": 206,
+      "lastSuccess": "2026-10-14T09:33:14+08:00"
     },
     {
       "id": "mof",
@@ -23,8 +23,8 @@
       "url": "https://www.mof.gov.tw/Rss/384fb3077bb349ea973e7fc6f13b6974",
       "taxOnly": true,
       "status": "ok",
-      "count": 904,
-      "lastSuccess": "2026-10-13T11:19:15+08:00"
+      "count": 902,
+      "lastSuccess": "2026-10-14T09:33:14+08:00"
     },
     {
       "id": "north",
@@ -32,15 +32,15 @@
       "url": "https://www.ntbna.gov.tw/Rss/374fe8c4b18e48c691a6806ac02b9984",
       "status": "ok",
       "count": 182,
-      "lastSuccess": "2026-10-13T11:19:15+08:00"
+      "lastSuccess": "2026-10-14T09:33:14+08:00"
     },
     {
       "id": "south",
       "name": "南區國稅局",
       "url": "https://www.ntbsa.gov.tw/Rss/5e0e49a811b74b50b5a6486d38374285",
       "status": "ok",
-      "count": 63,
-      "lastSuccess": "2026-10-13T11:19:15+08:00"
+      "count": 62,
+      "lastSuccess": "2026-10-14T09:33:14+08:00"
     },
     {
       "id": "taipei",
@@ -48,10 +48,62 @@
       "url": "https://www.ntbt.gov.tw/Rss/41ae3594197f4f69b47753ce08188516",
       "status": "ok",
       "count": 296,
-      "lastSuccess": "2026-10-13T11:19:15+08:00"
+      "lastSuccess": "2026-10-14T09:33:14+08:00"
     }
   ],
   "articles": [
+    {
+      "id": "e3faf8d969b7349baf73",
+      "url": "https://www.ntbt.gov.tw/singlehtml/41ae3594197f4f69b47753ce08188516?cntId=a8ad519dfe2a4cb59a7f09abc3e30f95",
+      "title": "私人間買賣未上市櫃股票，代徵人可利用稅務入口網線上列印證券交易稅繳款書，省時又便利",
+      "date": "2026-10-13",
+      "source": "臺北國稅局",
+      "sourceId": "taipei",
+      "category": "其他稅務",
+      "summary": "財政部臺北國稅局表示，私人間買賣未上市櫃公司發行之股票，代徵人（即證券買受人）可多加利用財政部稅務入口網提供的線上服務列印證券交易稅條碼化繳款書，即可向各金融機構代收稅款處繳納，避免人工書寫內容遺漏或稅額計算錯誤致短漏繳證券交易稅之情形。 該局說明，依證券交易稅條例第3條規定，證券交易稅由代徵人於每次買賣交割之當日，按規定稅率代徵，並於代徵之次日，填具繳款書向國庫繳納之。為提供多元化報繳方式，節省…",
+      "summaryType": "官方摘要節錄",
+      "firstSeen": "2026-10-14T09:33:14+08:00",
+      "contentHash": "802a73c973c0a18b66c398eabbc268ea37878ee7a0e4d20af3eb75d0b856648d"
+    },
+    {
+      "id": "dec3ef2d1d1f4ebf493f",
+      "url": "https://www.mof.gov.tw/singlehtml/384fb3077bb349ea973e7fc6f13b6974?cntId=82ae85653f2b413c9990c708d1641ecd",
+      "title": "115年9月全國賦稅收入初步統計",
+      "date": "2026-10-13",
+      "source": "財政部",
+      "sourceId": "mof",
+      "category": "其他稅務",
+      "summary": "發布日期 115年10月13日 下次發布日期 115年11月11日下午4時 聯絡人 統計處 陳巧芸 科長 聯絡電話 02-2322-7555 一、本月數：9月實徵淨額4,965億元，較上年同月增加813億元(+19.6%)。 二、累計數：累計1至9月實徵淨額3兆5,714億元，較上年同期增加7,004億元 (+24.4%)。 三、達成率：累計1至9月實徵淨額占累計分配預算數115.0%，占全年預算…",
+      "summaryType": "官方摘要節錄",
+      "firstSeen": "2026-10-14T09:33:14+08:00",
+      "contentHash": "d661418f85a3584f5f95333f92680056c5097208d33fbd8473612253d2c42b6c"
+    },
+    {
+      "id": "4fd46672d7d54f9f025d",
+      "url": "https://www.mof.gov.tw/singlehtml/384fb3077bb349ea973e7fc6f13b6974?cntId=24645ea1da7a4fcd821c8857ab643718",
+      "title": "私人間買賣未上市櫃股票，代徵人可利用稅務入口網線上列印證券交易稅繳款書，省時又便利",
+      "date": "2026-10-13",
+      "source": "財政部",
+      "sourceId": "mof",
+      "category": "其他稅務",
+      "summary": "財政部臺北國稅局表示，私人間買賣未上市櫃公司發行之股票，代徵人（即證券買受人）可多加利用財政部稅務入口網提供的線上服務列印證券交易稅條碼化繳款書，即可向各金融機構代收稅款處繳納，避免人工書寫內容遺漏或稅額計算錯誤致短漏繳證券交易稅之情形。 該局說明，依證券交易稅條例第3條規定，證券交易稅由代徵人於每次買賣交割之當日，按規定稅率代徵，並於代徵之次日，填具繳款書向國庫繳納之。為提供多元化報繳方式，節省…",
+      "summaryType": "官方摘要節錄",
+      "firstSeen": "2026-10-14T09:33:14+08:00",
+      "contentHash": "802a73c973c0a18b66c398eabbc268ea37878ee7a0e4d20af3eb75d0b856648d"
+    },
+    {
+      "id": "d4933acd58587839b062",
+      "url": "https://www.mof.gov.tw/singlehtml/384fb3077bb349ea973e7fc6f13b6974?cntId=1f8298ddd6d446b68eee11db408d7628",
+      "title": "財政部公告對自中國大陸產製進口特定聚醯胺薄膜臨時課徵反傾銷稅",
+      "date": "2026-10-13",
+      "source": "財政部",
+      "sourceId": "mof",
+      "category": "其他稅務",
+      "summary": "財政部關務署表示，對自中國大陸產製進口特定聚醯胺薄膜課徵反傾銷稅調查案（下稱薄膜反傾銷稅案），財政部及經濟部初步認定有傾銷情事，且對國內產業造成實質損害，為防止我國產業在調查期間繼續遭受損害，財政部公告自115年10月19日起對前述產品臨時課徵反傾銷稅，為期4個月。 關務署說明，薄膜反傾銷稅案傾銷初步調查結果，經財政部關稅稅率審議小組（下稱審議小組）115年9月24日第72次會議審議決議，初步認定…",
+      "summaryType": "官方摘要節錄",
+      "firstSeen": "2026-10-14T09:33:14+08:00",
+      "contentHash": "3d3165ea71b5ac868b53234c0cf14bad13f2a8b262ceeca31db5a680e1a9eb51"
+    },
     {
       "id": "c03a3952096503281577",
       "url": "https://www.ntbt.gov.tw/singlehtml/41ae3594197f4f69b47753ce08188516?cntId=d61f26f6bc524e77afe0e6a58f62d81d",
