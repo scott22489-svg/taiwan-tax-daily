@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T08:34:14+08:00",
+  "updatedAt": "2026-10-19T08:43:22+08:00",
   "sources": [
     {
       "id": "central",
@@ -7,7 +7,7 @@
       "url": "https://www.ntbca.gov.tw/Rss/3c844e426e9c4b5ebcaaa18694d7e230",
       "status": "ok",
       "count": 84,
-      "lastSuccess": "2026-10-18T08:34:14+08:00"
+      "lastSuccess": "2026-10-19T08:43:22+08:00"
     },
     {
       "id": "kaohsiung",
@@ -15,7 +15,7 @@
       "url": "https://www.ntbk.gov.tw/Rss/8edee6a2f90d4254a5e8d38c1db38137",
       "status": "ok",
       "count": 208,
-      "lastSuccess": "2026-10-18T08:34:14+08:00"
+      "lastSuccess": "2026-10-19T08:43:22+08:00"
     },
     {
       "id": "mof",
@@ -23,8 +23,8 @@
       "url": "https://www.mof.gov.tw/Rss/384fb3077bb349ea973e7fc6f13b6974",
       "taxOnly": true,
       "status": "ok",
-      "count": 913,
-      "lastSuccess": "2026-10-18T08:34:14+08:00"
+      "count": 914,
+      "lastSuccess": "2026-10-19T08:43:22+08:00"
     },
     {
       "id": "north",
@@ -32,7 +32,7 @@
       "url": "https://www.ntbna.gov.tw/Rss/374fe8c4b18e48c691a6806ac02b9984",
       "status": "ok",
       "count": 185,
-      "lastSuccess": "2026-10-18T08:34:14+08:00"
+      "lastSuccess": "2026-10-19T08:43:22+08:00"
     },
     {
       "id": "south",
@@ -40,7 +40,7 @@
       "url": "https://www.ntbsa.gov.tw/Rss/5e0e49a811b74b50b5a6486d38374285",
       "status": "ok",
       "count": 67,
-      "lastSuccess": "2026-10-18T08:34:14+08:00"
+      "lastSuccess": "2026-10-19T08:43:22+08:00"
     },
     {
       "id": "taipei",
@@ -48,10 +48,23 @@
       "url": "https://www.ntbt.gov.tw/Rss/41ae3594197f4f69b47753ce08188516",
       "status": "ok",
       "count": 296,
-      "lastSuccess": "2026-10-18T08:34:14+08:00"
+      "lastSuccess": "2026-10-19T08:43:22+08:00"
     }
   ],
   "articles": [
+    {
+      "id": "28528e875af1962349ef",
+      "url": "https://www.mof.gov.tw/singlehtml/384fb3077bb349ea973e7fc6f13b6974?cntId=90914eb8f76e438cb81f29d274bbd505",
+      "title": "財政部莊翠雲部長率團參加2026年亞太經濟合作（APEC）財政部長會議（FMM）",
+      "date": "2026-10-18",
+      "source": "財政部",
+      "sourceId": "mof",
+      "category": "其他稅務",
+      "summary": "財政部莊翠雲部長將偕同金融監督管理委員會陳彥良副主任委員及相關財金官員，出席本（115）年10月19日至21日於香港舉行之亞太經濟合作（APEC）財政部長會議及相關會議，透過參與亞太地區重要財金對話平臺，分享我國促進經濟成長、維持穩健財政及推動數位金融創新等政策經驗與成果。 財政部說明，本年APEC以「建構亞太社群，促進共同繁榮」為主題，各經濟體代表將針對全球及區域經濟與金融展望、支持家戶之財政政…",
+      "summaryType": "官方摘要節錄",
+      "firstSeen": "2026-10-19T08:43:22+08:00",
+      "contentHash": "b4c1de70e27eac86d7a0c2661145fe28d087b8e48e44195cc8b44449ec673e4f"
+    },
     {
       "id": "7e4a2585a60d43e7a823",
       "url": "https://www.ntbt.gov.tw/singlehtml/41ae3594197f4f69b47753ce08188516?cntId=ec34cc255d41420ba23fdc276b69ef8f",
