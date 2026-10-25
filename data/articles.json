@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T09:19:47+08:00",
+  "updatedAt": "2026-10-25T08:44:45+08:00",
   "sources": [
     {
       "id": "central",
@@ -7,15 +7,15 @@
       "url": "https://www.ntbca.gov.tw/Rss/3c844e426e9c4b5ebcaaa18694d7e230",
       "status": "ok",
       "count": 85,
-      "lastSuccess": "2026-10-24T09:19:47+08:00"
+      "lastSuccess": "2026-10-25T08:44:45+08:00"
     },
     {
       "id": "kaohsiung",
       "name": "高雄國稅局",
       "url": "https://www.ntbk.gov.tw/Rss/8edee6a2f90d4254a5e8d38c1db38137",
       "status": "ok",
-      "count": 211,
-      "lastSuccess": "2026-10-24T09:19:47+08:00"
+      "count": 212,
+      "lastSuccess": "2026-10-25T08:44:45+08:00"
     },
     {
       "id": "mof",
@@ -24,7 +24,7 @@
       "taxOnly": true,
       "status": "ok",
       "count": 927,
-      "lastSuccess": "2026-10-24T09:19:47+08:00"
+      "lastSuccess": "2026-10-25T08:44:45+08:00"
     },
     {
       "id": "north",
@@ -32,7 +32,7 @@
       "url": "https://www.ntbna.gov.tw/Rss/374fe8c4b18e48c691a6806ac02b9984",
       "status": "ok",
       "count": 183,
-      "lastSuccess": "2026-10-24T09:19:47+08:00"
+      "lastSuccess": "2026-10-25T08:44:45+08:00"
     },
     {
       "id": "south",
@@ -40,7 +40,7 @@
       "url": "https://www.ntbsa.gov.tw/Rss/5e0e49a811b74b50b5a6486d38374285",
       "status": "ok",
       "count": 71,
-      "lastSuccess": "2026-10-24T09:19:47+08:00"
+      "lastSuccess": "2026-10-25T08:44:45+08:00"
     },
     {
       "id": "taipei",
@@ -48,10 +48,23 @@
       "url": "https://www.ntbt.gov.tw/Rss/41ae3594197f4f69b47753ce08188516",
       "status": "ok",
       "count": 296,
-      "lastSuccess": "2026-10-24T09:19:47+08:00"
+      "lastSuccess": "2026-10-25T08:44:45+08:00"
     }
   ],
   "articles": [
+    {
+      "id": "6c82084ea9b7f5505be8",
+      "url": "https://www.ntbk.gov.tw/singlehtml/8edee6a2f90d4254a5e8d38c1db38137?cntId=36e2261263e44164acad33480c4b4f01",
+      "title": "受第29號（薔琵）颱風影響造成災害損失，別忘了依災害減免三步驟向國稅局申請稅捐減免!",
+      "date": "2026-10-24",
+      "source": "高雄國稅局",
+      "sourceId": "kaohsiung",
+      "category": "其他稅務",
+      "summary": "財政部高雄國稅局表示，受第29號（薔琵）颱風影響，若民眾財物遭受災害損失，請民眾在動手清理前，務必把握災損減免三步驟，「拍照存證」、「備妥證明」及「申請減免」，於災害發生後30日內，向轄區國稅局辦理稅捐減免相關事宜，以維護自身權益。 該局進一步說明，對於民眾因災害造成的財產損失，將秉持從寬、從速、從簡原則，積極協助及輔導受災納稅義務人申報（請）各項稅捐減免事宜，相關所得稅、營業稅、貨物稅、菸酒稅等…",
+      "summaryType": "官方摘要節錄",
+      "firstSeen": "2026-10-25T08:44:45+08:00",
+      "contentHash": "6a39bcd7886d2b3b0bede143f7404e492ba18c26865e91648401c353847e12ff"
+    },
     {
       "id": "9083d85bbc3f709eb721",
       "url": "https://www.ntbca.gov.tw/singlehtml/3c844e426e9c4b5ebcaaa18694d7e230?cntId=d3d60df8fc5c473d8c7c35d9140dea33",
