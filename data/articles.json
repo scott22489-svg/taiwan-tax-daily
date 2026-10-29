@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-10-28T09:58:57+08:00",
+  "updatedAt": "2026-10-29T10:03:16+08:00",
   "sources": [
     {
       "id": "central",
       "name": "中區國稅局",
       "url": "https://www.ntbca.gov.tw/Rss/3c844e426e9c4b5ebcaaa18694d7e230",
       "status": "ok",
-      "count": 85,
-      "lastSuccess": "2026-10-28T09:58:57+08:00"
+      "count": 86,
+      "lastSuccess": "2026-10-29T10:03:16+08:00"
     },
     {
       "id": "kaohsiung",
       "name": "高雄國稅局",
       "url": "https://www.ntbk.gov.tw/Rss/8edee6a2f90d4254a5e8d38c1db38137",
       "status": "ok",
-      "count": 211,
-      "lastSuccess": "2026-10-28T09:58:57+08:00"
+      "count": 208,
+      "lastSuccess": "2026-10-29T10:03:16+08:00"
     },
     {
       "id": "mof",
@@ -23,16 +23,16 @@
       "url": "https://www.mof.gov.tw/Rss/384fb3077bb349ea973e7fc6f13b6974",
       "taxOnly": true,
       "status": "ok",
-      "count": 918,
-      "lastSuccess": "2026-10-28T09:58:57+08:00"
+      "count": 916,
+      "lastSuccess": "2026-10-29T10:03:16+08:00"
     },
     {
       "id": "north",
       "name": "北區國稅局",
       "url": "https://www.ntbna.gov.tw/Rss/374fe8c4b18e48c691a6806ac02b9984",
       "status": "ok",
-      "count": 181,
-      "lastSuccess": "2026-10-28T09:58:57+08:00"
+      "count": 182,
+      "lastSuccess": "2026-10-29T10:03:16+08:00"
     },
     {
       "id": "south",
@@ -40,7 +40,7 @@
       "url": "https://www.ntbsa.gov.tw/Rss/5e0e49a811b74b50b5a6486d38374285",
       "status": "ok",
       "count": 72,
-      "lastSuccess": "2026-10-28T09:58:57+08:00"
+      "lastSuccess": "2026-10-29T10:03:16+08:00"
     },
     {
       "id": "taipei",
@@ -48,10 +48,75 @@
       "url": "https://www.ntbt.gov.tw/Rss/41ae3594197f4f69b47753ce08188516",
       "status": "ok",
       "count": 294,
-      "lastSuccess": "2026-10-28T09:58:57+08:00"
+      "lastSuccess": "2026-10-29T10:03:16+08:00"
     }
   ],
   "articles": [
+    {
+      "id": "ec7774bb0f4e8ac379d4",
+      "url": "https://www.ntbt.gov.tw/singlehtml/41ae3594197f4f69b47753ce08188516?cntId=d771bcb1776a4370b6f98fabbeba69b4",
+      "title": "營利事業適用前10年核定虧損扣除，免徵或免稅所得應先抵減虧損",
+      "date": "2026-10-28",
+      "source": "臺北國稅局",
+      "sourceId": "taipei",
+      "category": "營利事業所得稅",
+      "summary": "財政部臺北國稅局表示，依所得稅法第39條第1項但書規定，公司組織之營利事業，會計帳冊簿據完備，虧損及申報扣除年度均使用同法第77條所稱藍色申報書或經會計師查核簽證，並如期申報者，得將經該管稽徵機關核定之前10年內各期虧損，自本年度純益額中扣除後，再行核課。惟於虧損年度，營利事業如有免徵或免納營利事業所得稅之所得，除符合法令規定免予列入者外，均應先抵減各該期核定虧損後，再以虧損之餘額扣除。 該局指出…",
+      "summaryType": "官方摘要節錄",
+      "firstSeen": "2026-10-29T10:03:16+08:00",
+      "contentHash": "edf4635cf502e8a125a2fd6b585da4af4672c5e79451bf58e2c50d4c49908390"
+    },
+    {
+      "id": "cf413c9aec00e31d2652",
+      "url": "https://www.ntbna.gov.tw/singlehtml/374fe8c4b18e48c691a6806ac02b9984?cntId=6117cb1c25c541b18f64fc5c2bcfa6e8",
+      "title": "拒買私劣菸守護自身健康，認明「三不一要」原則！",
+      "date": "2026-10-28",
+      "source": "北區國稅局",
+      "sourceId": "north",
+      "category": "營業稅",
+      "summary": "財政部北區國稅局表示，不肖業者常利用網路、社群平台或私密社團違法販售未經檢驗的走私加熱菸、電子煙或私劣傳統紙菸，不僅嚴重危害消費者健康，更破壞國家稅收公平。 該局說明，為避免民眾買到來路不明的走私、劣質菸品，特別提醒辨識私劣菸品的「三不一要」原則：不用來路不明菸品、不買低價劣質菸品、不選標示不全菸品、發現販售私菸要檢舉；選購菸品時應留意： 一、價格是否偏低 每千支紙菸要徵收新臺幣(下同)1,590…",
+      "summaryType": "官方摘要節錄",
+      "firstSeen": "2026-10-29T10:03:16+08:00",
+      "contentHash": "38dcab98004556ccce14f3565ed53aa8535393dbcf00e79dd1aa4e2d75f4abf2"
+    },
+    {
+      "id": "bb7b93360ffdd5e9adf1",
+      "url": "https://www.ntbca.gov.tw/singlehtml/3c844e426e9c4b5ebcaaa18694d7e230?cntId=039dcb7072414745bbd5d3faa0aff21c",
+      "title": "轉帳退稅,省時又便利",
+      "date": "2026-10-28",
+      "source": "中區國稅局",
+      "sourceId": "central",
+      "category": "其他稅務",
+      "summary": "財政部中區國稅局竹山稽徵所表示，營利事業利用金融機構存款帳戶辦理轉帳退稅，只要申請一次,以後年度營利事業所得稅及營業稅核定退稅即可享受快速、便捷、安全的轉帳退稅。 該所說明,營利事業申請直接劃撥退稅,手續簡單,只要就近向轄區國稅局分局或稽徵所索取「營業稅、營利事業所得稅使用(異動、取消)直接劃撥退稅同意書」，填妥後加蓋營利事業及負責人印章,並檢附印有帳號資料的存摺封面(內頁),郵寄或親送轄區國稅局…",
+      "summaryType": "官方摘要節錄",
+      "firstSeen": "2026-10-29T10:03:16+08:00",
+      "contentHash": "6c5b9f48cac9d2a903e712a6746c72dfb3d303b20f770c8413bb40c004eed68f"
+    },
+    {
+      "id": "d86f19cca8bbcfac9e85",
+      "url": "https://www.mof.gov.tw/singlehtml/384fb3077bb349ea973e7fc6f13b6974?cntId=75cdcd55b3e14a268c028e0a21df20f1",
+      "title": "高雄關籲請進口人應依規定正確標示產地，確保通關順暢",
+      "date": "2026-10-28",
+      "source": "財政部",
+      "sourceId": "mof",
+      "category": "其他稅務",
+      "summary": "高雄關表示為維護國內市場交易秩序及消費者權益，特別提醒進口業者，進口貨物務必依規如實標示產地，切勿有未依規定標示或標示不實、偽標或使人誤認產地之行為，一經查獲，除影響通關時效，亦將遭致經濟部國際貿易署（下稱貿易署）依貿易法裁處，如有故意偽標者，更面臨刑法第255條刑事追訴，業者切勿心存僥倖、因小失大。 高雄關進一步說明，貿易法第17條規定，出進口人不得有未依規定標示產地或產地標示不實行為。另依貿易…",
+      "summaryType": "官方摘要節錄",
+      "firstSeen": "2026-10-29T10:03:16+08:00",
+      "contentHash": "8690d4d70b546f970b1dce5df793a049b22e8779e353a3c921b92c9a71e2eb22"
+    },
+    {
+      "id": "9c8fabff962eb5e8934a",
+      "url": "https://www.mof.gov.tw/singlehtml/384fb3077bb349ea973e7fc6f13b6974?cntId=719c9266583e49ba970a2c1771bd309e",
+      "title": "拒買私劣菸守護自身健康，認明「三不一要」原則！",
+      "date": "2026-10-28",
+      "source": "財政部",
+      "sourceId": "mof",
+      "category": "營業稅",
+      "summary": "財政部北區國稅局表示，不肖業者常利用網路、社群平台或私密社團違法販售未經檢驗的走私加熱菸、電子煙或私劣傳統紙菸，不僅嚴重危害消費者健康，更破壞國家稅收公平。 該局說明，為避免民眾買到來路不明的走私、劣質菸品，特別提醒辨識私劣菸品的「三不一要」原則：不用來路不明菸品、不買低價劣質菸品、不選標示不全菸品、發現販售私菸要檢舉；選購菸品時應留意： 一、價格是否偏低 每千支紙菸要徵收新臺幣(下同)1,590…",
+      "summaryType": "官方摘要節錄",
+      "firstSeen": "2026-10-29T10:03:16+08:00",
+      "contentHash": "38dcab98004556ccce14f3565ed53aa8535393dbcf00e79dd1aa4e2d75f4abf2"
+    },
     {
       "id": "295f04548c1eae01c221",
       "url": "https://www.ntbt.gov.tw/singlehtml/41ae3594197f4f69b47753ce08188516?cntId=99a6a67b42e74dcb915b2acff219e0bd",
