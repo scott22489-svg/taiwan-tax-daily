@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-30T10:21:09+08:00",
+  "updatedAt": "2026-10-31T09:57:33+08:00",
   "sources": [
     {
       "id": "central",
       "name": "中區國稅局",
       "url": "https://www.ntbca.gov.tw/Rss/3c844e426e9c4b5ebcaaa18694d7e230",
       "status": "ok",
-      "count": 88,
-      "lastSuccess": "2026-10-30T10:21:09+08:00"
+      "count": 85,
+      "lastSuccess": "2026-10-31T09:57:33+08:00"
     },
     {
       "id": "kaohsiung",
@@ -15,7 +15,7 @@
       "url": "https://www.ntbk.gov.tw/Rss/8edee6a2f90d4254a5e8d38c1db38137",
       "status": "ok",
       "count": 208,
-      "lastSuccess": "2026-10-30T10:21:09+08:00"
+      "lastSuccess": "2026-10-31T09:57:33+08:00"
     },
     {
       "id": "mof",
@@ -23,8 +23,8 @@
       "url": "https://www.mof.gov.tw/Rss/384fb3077bb349ea973e7fc6f13b6974",
       "taxOnly": true,
       "status": "ok",
-      "count": 915,
-      "lastSuccess": "2026-10-30T10:21:09+08:00"
+      "count": 902,
+      "lastSuccess": "2026-10-31T09:57:33+08:00"
     },
     {
       "id": "north",
@@ -32,26 +32,65 @@
       "url": "https://www.ntbna.gov.tw/Rss/374fe8c4b18e48c691a6806ac02b9984",
       "status": "ok",
       "count": 180,
-      "lastSuccess": "2026-10-30T10:21:09+08:00"
+      "lastSuccess": "2026-10-31T09:57:33+08:00"
     },
     {
       "id": "south",
       "name": "南區國稅局",
       "url": "https://www.ntbsa.gov.tw/Rss/5e0e49a811b74b50b5a6486d38374285",
       "status": "ok",
-      "count": 72,
-      "lastSuccess": "2026-10-30T10:21:09+08:00"
+      "count": 60,
+      "lastSuccess": "2026-10-31T09:57:33+08:00"
     },
     {
       "id": "taipei",
       "name": "臺北國稅局",
       "url": "https://www.ntbt.gov.tw/Rss/41ae3594197f4f69b47753ce08188516",
       "status": "ok",
-      "count": 292,
-      "lastSuccess": "2026-10-30T10:21:09+08:00"
+      "count": 291,
+      "lastSuccess": "2026-10-31T09:57:33+08:00"
     }
   ],
   "articles": [
+    {
+      "id": "1d1773e7fae9857c6354",
+      "url": "https://www.ntbt.gov.tw/singlehtml/41ae3594197f4f69b47753ce08188516?cntId=e29b06e178d54508bdd600e748ea64e4",
+      "title": "贈與稅免稅額，「一年」您用對了嗎？",
+      "date": "2026-10-30",
+      "source": "臺北國稅局",
+      "sourceId": "taipei",
+      "category": "遺產及贈與稅",
+      "summary": "財政部臺北國稅局表示，贈與稅所稱贈與人「每年」免稅額、「一年內」贈與他人、「同一年內」兩次以上贈與行為，均係自每年1月1日計算至12月31日止。 該局指出，依遺產及贈與稅法規定，贈與稅納稅義務人在「一年內」贈與他人之財產總值超過贈與稅免稅額（114、115年免稅額均為244萬元）時，應於超過免稅額之贈與行為發生後30日內，依法向主管稽徵機關申報贈與稅。贈與稅之計算，按贈與人「每年」贈與總額，減除同…",
+      "summaryType": "官方摘要節錄",
+      "firstSeen": "2026-10-31T09:57:33+08:00",
+      "contentHash": "6ebf868878fdf81332393beba71fd44ddb760a62fecf18d6f00880ee10fee678"
+    },
+    {
+      "id": "ce7c2f4b62b0dcf44c8a",
+      "url": "https://www.mof.gov.tw/singlehtml/384fb3077bb349ea973e7fc6f13b6974?cntId=2e7b45800ecf4a10b5544f1ce460e48c",
+      "title": "115年營業用車輛下期使用牌照稅繳納期限至11月2日",
+      "date": "2026-10-30",
+      "source": "財政部",
+      "sourceId": "mof",
+      "category": "其他稅務",
+      "summary": "財政部賦稅署表示，今（115）年營業用車輛下期使用牌照稅，已於今年10月1日開徵，繳納期限原至10月31日止，因適逢假日，繳納期限順延至同年11月2日（星期一），請納稅義務人於期限內繳納，如遺失或尚未收到繳款書，請儘速向車籍所在地地方稅稽徵機關或其派駐監理機關服務櫃檯查詢或申請補發。 依使用牌照稅法第25條、第28條第1項及稅捐稽徵法第20條規定，車輛所有人或使用人未於規定繳納期間內繳清稅款者，每…",
+      "summaryType": "官方摘要節錄",
+      "firstSeen": "2026-10-31T09:57:33+08:00",
+      "contentHash": "649c67d18a53d752b63688d7835ba1909ec3af34cc6c2a6915de038205c72452"
+    },
+    {
+      "id": "40a77fe4f016fb422292",
+      "url": "https://www.mof.gov.tw/singlehtml/384fb3077bb349ea973e7fc6f13b6974?cntId=06f7f7510dd248a99b2dd5027926f9ac",
+      "title": "贈與稅免稅額，「一年」您用對了嗎？",
+      "date": "2026-10-30",
+      "source": "財政部",
+      "sourceId": "mof",
+      "category": "遺產及贈與稅",
+      "summary": "財政部臺北國稅局表示，贈與稅所稱贈與人「每年」免稅額、「一年內」贈與他人、「同一年內」兩次以上贈與行為，均係自每年1月1日計算至12月31日止。 該局指出，依遺產及贈與稅法規定，贈與稅納稅義務人在「一年內」贈與他人之財產總值超過贈與稅免稅額（114、115年免稅額均為244萬元）時，應於超過免稅額之贈與行為發生後30日內，依法向主管稽徵機關申報贈與稅。贈與稅之計算，按贈與人「每年」贈與總額，減除同…",
+      "summaryType": "官方摘要節錄",
+      "firstSeen": "2026-10-31T09:57:33+08:00",
+      "contentHash": "6ebf868878fdf81332393beba71fd44ddb760a62fecf18d6f00880ee10fee678"
+    },
     {
       "id": "9237c1a3fcacc3587a7f",
       "url": "https://www.ntbsa.gov.tw/singlehtml/5e0e49a811b74b50b5a6486d38374285?cntId=e977daec2f39439fa27f9565e8adb7e3",
