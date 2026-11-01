@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-10-31T09:57:33+08:00",
+  "updatedAt": "2026-11-01T09:47:26+08:00",
   "sources": [
     {
       "id": "central",
       "name": "中區國稅局",
       "url": "https://www.ntbca.gov.tw/Rss/3c844e426e9c4b5ebcaaa18694d7e230",
       "status": "ok",
-      "count": 85,
-      "lastSuccess": "2026-10-31T09:57:33+08:00"
+      "count": 84,
+      "lastSuccess": "2026-11-01T09:47:26+08:00"
     },
     {
       "id": "kaohsiung",
       "name": "高雄國稅局",
       "url": "https://www.ntbk.gov.tw/Rss/8edee6a2f90d4254a5e8d38c1db38137",
       "status": "ok",
-      "count": 208,
-      "lastSuccess": "2026-10-31T09:57:33+08:00"
+      "count": 210,
+      "lastSuccess": "2026-11-01T09:47:26+08:00"
     },
     {
       "id": "mof",
@@ -23,8 +23,8 @@
       "url": "https://www.mof.gov.tw/Rss/384fb3077bb349ea973e7fc6f13b6974",
       "taxOnly": true,
       "status": "ok",
-      "count": 902,
-      "lastSuccess": "2026-10-31T09:57:33+08:00"
+      "count": 903,
+      "lastSuccess": "2026-11-01T09:47:26+08:00"
     },
     {
       "id": "north",
@@ -32,15 +32,15 @@
       "url": "https://www.ntbna.gov.tw/Rss/374fe8c4b18e48c691a6806ac02b9984",
       "status": "ok",
       "count": 180,
-      "lastSuccess": "2026-10-31T09:57:33+08:00"
+      "lastSuccess": "2026-11-01T09:47:26+08:00"
     },
     {
       "id": "south",
       "name": "南區國稅局",
       "url": "https://www.ntbsa.gov.tw/Rss/5e0e49a811b74b50b5a6486d38374285",
       "status": "ok",
-      "count": 60,
-      "lastSuccess": "2026-10-31T09:57:33+08:00"
+      "count": 59,
+      "lastSuccess": "2026-11-01T09:47:26+08:00"
     },
     {
       "id": "taipei",
@@ -48,10 +48,36 @@
       "url": "https://www.ntbt.gov.tw/Rss/41ae3594197f4f69b47753ce08188516",
       "status": "ok",
       "count": 291,
-      "lastSuccess": "2026-10-31T09:57:33+08:00"
+      "lastSuccess": "2026-11-01T09:47:26+08:00"
     }
   ],
   "articles": [
+    {
+      "id": "1e5e56b6c73044004b2f",
+      "url": "https://www.ntbk.gov.tw/singlehtml/8edee6a2f90d4254a5e8d38c1db38137?cntId=906bb5318c324efe8c8a4c70bda81e2c",
+      "title": "高雄國稅局「橋裝打扮 不給糖就健走」宣導活動聚集愛心助公益",
+      "date": "2026-10-31",
+      "source": "高雄國稅局",
+      "sourceId": "kaohsiung",
+      "category": "其他稅務",
+      "summary": "財政部高雄國稅局今(31)日在橋頭糖廠舉辦統一發票推行暨「橋裝打扮 不給糖就健走」租稅宣導活動，健走活動由賦稅署署長樓美鐘、該局局長許寧佑及與會嘉賓共同鳴笛揭開活動序幕，現場氣氛熱絡，洋溢著健康、活力與歡笑。 高雄國稅局表示，健走是兼具健康與休閒的全民運動，為鼓勵民眾培養運動習慣，今年特別結合萬聖節元素，以「橋裝打扮 不給糖就健走」為主題，邀請公、私部門及社福團體共襄盛舉。活動現場規劃精彩舞台表演…",
+      "summaryType": "官方摘要節錄",
+      "firstSeen": "2026-11-01T09:47:26+08:00",
+      "contentHash": "1cbb810441e75ec15184940ba62ef1b76b0e86ff5d01fe5febc9f8157281dc99"
+    },
+    {
+      "id": "fd87180fe5d9069fc7e0",
+      "url": "https://www.mof.gov.tw/singlehtml/384fb3077bb349ea973e7fc6f13b6974?cntId=3f689a7f93b241b3be6236447f9a14ab",
+      "title": "高雄國稅局「橋裝打扮 不給糖就健走」宣導活動聚集愛心助公益",
+      "date": "2026-10-31",
+      "source": "財政部",
+      "sourceId": "mof",
+      "category": "其他稅務",
+      "summary": "財政部高雄國稅局今(31)日在橋頭糖廠舉辦統一發票推行暨「橋裝打扮 不給糖就健走」租稅宣導活動，健走活動由賦稅署署長樓美鐘、該局局長許寧佑及與會嘉賓共同鳴笛揭開活動序幕，現場氣氛熱絡，洋溢著健康、活力與歡笑。 高雄國稅局表示，健走是兼具健康與休閒的全民運動，為鼓勵民眾培養運動習慣，今年特別結合萬聖節元素，以「橋裝打扮 不給糖就健走」為主題，邀請公、私部門及社福團體共襄盛舉。活動現場規劃精彩舞台表演…",
+      "summaryType": "官方摘要節錄",
+      "firstSeen": "2026-11-01T09:47:26+08:00",
+      "contentHash": "1cbb810441e75ec15184940ba62ef1b76b0e86ff5d01fe5febc9f8157281dc99"
+    },
     {
       "id": "1d1773e7fae9857c6354",
       "url": "https://www.ntbt.gov.tw/singlehtml/41ae3594197f4f69b47753ce08188516?cntId=e29b06e178d54508bdd600e748ea64e4",
@@ -883,6 +909,19 @@
       "summaryType": "官方摘要節錄",
       "firstSeen": "2026-10-20T09:28:40+08:00",
       "contentHash": "b1e6376976c13072a52b2a101923eb95b46bb1aec85ee46dbe0cf18766cb0097"
+    },
+    {
+      "id": "f5abd90619e6770ed691",
+      "url": "https://www.ntbk.gov.tw/singlehtml/8edee6a2f90d4254a5e8d38c1db38137?cntId=b954d5521f5e44ba97158547b57ffbd7",
+      "title": "營業人預售房地約定以銀行貸款抵繳尾款之統一發票開立時限",
+      "date": "2026-10-19",
+      "source": "高雄國稅局",
+      "sourceId": "kaohsiung",
+      "category": "營業稅",
+      "summary": "財政部高雄國稅局表示，近期接獲營業人來電詢問預售房地如約定以銀行貸款抵繳尾款，統一發票應如何開立？ 該局表示，營業人銷售貨物或勞務，應依營業人開立銷售憑證時限表規定之時限，開立統一發票交付買受人，惟出售土地依規定免徵營業稅且得免開立統一發票。營業人預售房屋若約定以銀行貸款抵繳尾款，統一發票開立時限依房屋所有權是否移轉而有不同，若房屋所有權已移轉而未能取得銀行貸款者，至遲應於所有權狀核發日起3個月內…",
+      "summaryType": "官方摘要節錄",
+      "firstSeen": "2026-11-01T09:47:26+08:00",
+      "contentHash": "f2347f9522433f4cf2593700113313961b63cf2880bc5d97cde16b02e1cfa39b"
     },
     {
       "id": "d2e57b9d49a6d4651f55",
