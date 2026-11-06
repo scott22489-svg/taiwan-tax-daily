@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-05T11:03:14+08:00",
+  "updatedAt": "2026-11-06T11:03:32+08:00",
   "sources": [
     {
       "id": "central",
       "name": "中區國稅局",
       "url": "https://www.ntbca.gov.tw/Rss/3c844e426e9c4b5ebcaaa18694d7e230",
       "status": "ok",
-      "count": 82,
-      "lastSuccess": "2026-11-05T11:03:14+08:00"
+      "count": 81,
+      "lastSuccess": "2026-11-06T11:03:32+08:00"
     },
     {
       "id": "kaohsiung",
@@ -15,7 +15,7 @@
       "url": "https://www.ntbk.gov.tw/Rss/8edee6a2f90d4254a5e8d38c1db38137",
       "status": "ok",
       "count": 210,
-      "lastSuccess": "2026-11-05T11:03:14+08:00"
+      "lastSuccess": "2026-11-06T11:03:32+08:00"
     },
     {
       "id": "mof",
@@ -23,8 +23,8 @@
       "url": "https://www.mof.gov.tw/Rss/384fb3077bb349ea973e7fc6f13b6974",
       "taxOnly": true,
       "status": "ok",
-      "count": 905,
-      "lastSuccess": "2026-11-05T11:03:14+08:00"
+      "count": 902,
+      "lastSuccess": "2026-11-06T11:03:32+08:00"
     },
     {
       "id": "north",
@@ -32,26 +32,78 @@
       "url": "https://www.ntbna.gov.tw/Rss/374fe8c4b18e48c691a6806ac02b9984",
       "status": "ok",
       "count": 181,
-      "lastSuccess": "2026-11-05T11:03:14+08:00"
+      "lastSuccess": "2026-11-06T11:03:32+08:00"
     },
     {
       "id": "south",
       "name": "南區國稅局",
       "url": "https://www.ntbsa.gov.tw/Rss/5e0e49a811b74b50b5a6486d38374285",
       "status": "ok",
-      "count": 61,
-      "lastSuccess": "2026-11-05T11:03:14+08:00"
+      "count": 62,
+      "lastSuccess": "2026-11-06T11:03:32+08:00"
     },
     {
       "id": "taipei",
       "name": "臺北國稅局",
       "url": "https://www.ntbt.gov.tw/Rss/41ae3594197f4f69b47753ce08188516",
       "status": "ok",
-      "count": 290,
-      "lastSuccess": "2026-11-05T11:03:14+08:00"
+      "count": 289,
+      "lastSuccess": "2026-11-06T11:03:32+08:00"
     }
   ],
   "articles": [
+    {
+      "id": "371239a931ced46e98c2",
+      "url": "https://www.ntbsa.gov.tw/singlehtml/5e0e49a811b74b50b5a6486d38374285?cntId=eb6173586aed4e21b171a5b7ac120d66",
+      "title": "115年度營利事業所得稅暫繳稅額未繳或短繳案件已發單開徵",
+      "date": "2026-11-05",
+      "source": "南區國稅局",
+      "sourceId": "south",
+      "category": "營利事業所得稅",
+      "summary": "營利事業未於本(115)年10月底前繳納暫繳稅額者，國稅局已在日前寄發暫繳稅額核定通知書及繳款書，收到後請儘速在繳納期限內繳納，以免逾期而須多繳滯納金及滯納利息。 財政部南區國稅局表示，營利事業依規定應辦理115年度營利事業所得稅暫繳申報，而未在本年9月1日至9月30日申報期間，自行繳納115年度營利事業所得稅暫繳稅額，也沒有在本年10月31日前按日加計利息自行補繳者，國稅局會按該營利事業114年…",
+      "summaryType": "官方摘要節錄",
+      "firstSeen": "2026-11-06T11:03:32+08:00",
+      "contentHash": "852bc63d0090bbeb35195b9f14f4a5385a82c517442d685a33d8498280715256"
+    },
+    {
+      "id": "244481de179724550323",
+      "url": "https://www.ntbsa.gov.tw/singlehtml/5e0e49a811b74b50b5a6486d38374285?cntId=a9187bbb1ab6421ea2d27600b162e45e",
+      "title": "醫療院所應誠實申報自費收入，以免遭補稅處罰",
+      "date": "2026-11-05",
+      "source": "南區國稅局",
+      "sourceId": "south",
+      "category": "其他稅務",
+      "summary": "財政部南區國稅局表示，醫療院所提供醫療服務所收取的收入，不論來自健保給付或民眾自費，均應據實申報，以免因短漏報所得而遭補稅處罰。 該局說明，為維護租稅公平，針對醫美、牙醫、眼科及人工生殖等高自費醫療業別加強查核，最近查核甲醫美診所113年度執行業務所得，發現其申報收入偏低與其網路人氣不相當，經進一步分析其進貨的醫材品項、數量，與申報自費收入的療程項目不合，嗣診所坦承有漏報自費收入，乃調增甲診所負責…",
+      "summaryType": "官方摘要節錄",
+      "firstSeen": "2026-11-06T11:03:32+08:00",
+      "contentHash": "838852dca910e12f629a06b23aed28f94efd59ce633ce212a0cfeb843618b4d2"
+    },
+    {
+      "id": "26c1c056d2f8b1e846ee",
+      "url": "https://www.ntbsa.gov.tw/singlehtml/5e0e49a811b74b50b5a6486d38374285?cntId=4ed5423fa73040c49e142657efbfb7e5",
+      "title": "SUPER活力派！兒童人權走進社區 屏東分局職場互助教保服務中心攜手親子共築友善成長環境",
+      "date": "2026-11-05",
+      "source": "南區國稅局",
+      "sourceId": "south",
+      "category": "其他稅務",
+      "summary": "為落實兒童權利保障理念，營造尊重、平等及友善的兒童成長環境，財政部南區國稅局屏東分局職場互助教保服務中心將於115年11月7日（星期六）上午9時至12時，在屏東市萬年公園舉辦「SUPER活力派！兒童人權活動－走進社區・權利同行」，親子互動及多元體驗，邀請大小朋友共同認識兒童人權，讓兒童權利從理念走入日常生活。 本次活動以兒童人權為核心，涵蓋表意權、遊戲權、保護權、學習權、平等權及參與權六大面向，透…",
+      "summaryType": "官方摘要節錄",
+      "firstSeen": "2026-11-06T11:03:32+08:00",
+      "contentHash": "a0af1c9b8fc577fddb6c44b3f1c3c0f350b672754b9dd4527378f8c540398744"
+    },
+    {
+      "id": "24cb6739241303aeb96f",
+      "url": "https://www.mof.gov.tw/singlehtml/384fb3077bb349ea973e7fc6f13b6974?cntId=f4923011f84a40a890042e11d4f0ec5b",
+      "title": "115年度營利事業所得稅暫繳稅額未繳或短繳案件已發單開徵",
+      "date": "2026-11-05",
+      "source": "財政部",
+      "sourceId": "mof",
+      "category": "營利事業所得稅",
+      "summary": "營利事業未於本(115)年10月底前繳納暫繳稅額者，國稅局已在日前寄發暫繳稅額核定通知書及繳款書，收到後請儘速在繳納期限內繳納，以免逾期而須多繳滯納金及滯納利息。 財政部南區國稅局表示，營利事業依規定應辦理115年度營利事業所得稅暫繳申報，而未在本年9月1日至9月30日申報期間，自行繳納115年度營利事業所得稅暫繳稅額，也沒有在本年10月31日前按日加計利息自行補繳者，國稅局會按該營利事業114年…",
+      "summaryType": "官方摘要節錄",
+      "firstSeen": "2026-11-06T11:03:32+08:00",
+      "contentHash": "852bc63d0090bbeb35195b9f14f4a5385a82c517442d685a33d8498280715256"
+    },
     {
       "id": "14ebc9fb11888eb22cf9",
       "url": "https://www.ntbna.gov.tw/singlehtml/374fe8c4b18e48c691a6806ac02b9984?cntId=6f275d8b37094884ba9d197cd9924a7f",
