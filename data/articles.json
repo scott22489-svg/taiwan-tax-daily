@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T09:59:46+08:00",
+  "updatedAt": "2026-11-09T10:19:19+08:00",
   "sources": [
     {
       "id": "central",
@@ -7,15 +7,15 @@
       "url": "https://www.ntbca.gov.tw/Rss/3c844e426e9c4b5ebcaaa18694d7e230",
       "status": "ok",
       "count": 83,
-      "lastSuccess": "2026-11-08T09:59:46+08:00"
+      "lastSuccess": "2026-11-09T10:19:19+08:00"
     },
     {
       "id": "kaohsiung",
       "name": "高雄國稅局",
       "url": "https://www.ntbk.gov.tw/Rss/8edee6a2f90d4254a5e8d38c1db38137",
       "status": "ok",
-      "count": 210,
-      "lastSuccess": "2026-11-08T09:59:46+08:00"
+      "count": 209,
+      "lastSuccess": "2026-11-09T10:19:19+08:00"
     },
     {
       "id": "mof",
@@ -23,8 +23,8 @@
       "url": "https://www.mof.gov.tw/Rss/384fb3077bb349ea973e7fc6f13b6974",
       "taxOnly": true,
       "status": "ok",
-      "count": 899,
-      "lastSuccess": "2026-11-08T09:59:46+08:00"
+      "count": 898,
+      "lastSuccess": "2026-11-09T10:19:19+08:00"
     },
     {
       "id": "north",
@@ -32,7 +32,7 @@
       "url": "https://www.ntbna.gov.tw/Rss/374fe8c4b18e48c691a6806ac02b9984",
       "status": "ok",
       "count": 180,
-      "lastSuccess": "2026-11-08T09:59:46+08:00"
+      "lastSuccess": "2026-11-09T10:19:19+08:00"
     },
     {
       "id": "south",
@@ -40,18 +40,44 @@
       "url": "https://www.ntbsa.gov.tw/Rss/5e0e49a811b74b50b5a6486d38374285",
       "status": "ok",
       "count": 57,
-      "lastSuccess": "2026-11-08T09:59:46+08:00"
+      "lastSuccess": "2026-11-09T10:19:19+08:00"
     },
     {
       "id": "taipei",
       "name": "臺北國稅局",
       "url": "https://www.ntbt.gov.tw/Rss/41ae3594197f4f69b47753ce08188516",
       "status": "ok",
-      "count": 289,
-      "lastSuccess": "2026-11-08T09:59:46+08:00"
+      "count": 290,
+      "lastSuccess": "2026-11-09T10:19:19+08:00"
     }
   ],
   "articles": [
+    {
+      "id": "73f06b82f9a27323e11f",
+      "url": "https://www.ntbt.gov.tw/singlehtml/41ae3594197f4f69b47753ce08188516?cntId=971ab309b9d84bf7a6094fa6a13a0279",
+      "title": "財政部115年統一發票盃路跑臺北場熱情開跑，萬人響應健康做公益",
+      "date": "2026-11-08",
+      "source": "臺北國稅局",
+      "sourceId": "taipei",
+      "category": "營業稅",
+      "summary": "財政部115年統一發票盃路跑臺北場活動，今（8）日清晨分別於總統府前凱達格蘭大道及大佳河濱公園熱情登場，吸引萬名跑者共襄盛舉。財政部莊部長翠雲及第一金控邱董事長月琴等人帶領跑者一起健康向前跑，並號召民眾以實際行動支持公益，共同響應「捐發票做愛心」！ 財政部統一發票盃路跑活動今（115）年已邁入第17年，繼6月7日臺南場熱鬧舉辦後，臺北場活動今日接力登場，由財政部與第一金控共同主辦，分為半馬組21公…",
+      "summaryType": "官方摘要節錄",
+      "firstSeen": "2026-11-09T10:19:19+08:00",
+      "contentHash": "a1dbf2ac1e14afafd5cfdc31359f15ff455f53b3ebbeb05c5a22ee273b18953c"
+    },
+    {
+      "id": "e34ce8a1766c0689a6a4",
+      "url": "https://www.mof.gov.tw/singlehtml/384fb3077bb349ea973e7fc6f13b6974?cntId=58f70a4daaa647dc8aa187b7b16d18b7",
+      "title": "財政部115年統一發票盃路跑臺北場熱情開跑，萬人響應健康做公益",
+      "date": "2026-11-08",
+      "source": "財政部",
+      "sourceId": "mof",
+      "category": "營業稅",
+      "summary": "財政部115年統一發票盃路跑臺北場活動，今（8）日清晨分別於總統府前凱達格蘭大道及大佳河濱公園熱情登場，吸引萬名跑者共襄盛舉。財政部莊部長翠雲及第一金控邱董事長月琴等人帶領跑者一起健康向前跑，並號召民眾以實際行動支持公益，共同響應「捐發票做愛心」！ 財政部統一發票盃路跑活動今（115）年已邁入第17年，繼6月7日臺南場熱鬧舉辦後，臺北場活動今日接力登場，由財政部與第一金控共同主辦，分為半馬組21公…",
+      "summaryType": "官方摘要節錄",
+      "firstSeen": "2026-11-09T10:19:19+08:00",
+      "contentHash": "a1dbf2ac1e14afafd5cfdc31359f15ff455f53b3ebbeb05c5a22ee273b18953c"
+    },
     {
       "id": "c40c28c86d49b30d5bb0",
       "url": "https://www.ntbt.gov.tw/singlehtml/41ae3594197f4f69b47753ce08188516?cntId=b5b505f1dfe647a2b3ec34e97ebd3281",
