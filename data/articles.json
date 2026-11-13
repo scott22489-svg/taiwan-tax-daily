@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-12T11:33:23+08:00",
+  "updatedAt": "2026-11-13T11:05:41+08:00",
   "sources": [
     {
       "id": "central",
       "name": "中區國稅局",
       "url": "https://www.ntbca.gov.tw/Rss/3c844e426e9c4b5ebcaaa18694d7e230",
       "status": "ok",
-      "count": 86,
-      "lastSuccess": "2026-11-12T11:33:23+08:00"
+      "count": 87,
+      "lastSuccess": "2026-11-13T11:05:41+08:00"
     },
     {
       "id": "kaohsiung",
@@ -15,7 +15,7 @@
       "url": "https://www.ntbk.gov.tw/Rss/8edee6a2f90d4254a5e8d38c1db38137",
       "status": "ok",
       "count": 212,
-      "lastSuccess": "2026-11-12T11:33:23+08:00"
+      "lastSuccess": "2026-11-13T11:05:41+08:00"
     },
     {
       "id": "mof",
@@ -23,8 +23,8 @@
       "url": "https://www.mof.gov.tw/Rss/384fb3077bb349ea973e7fc6f13b6974",
       "taxOnly": true,
       "status": "ok",
-      "count": 904,
-      "lastSuccess": "2026-11-12T11:33:23+08:00"
+      "count": 896,
+      "lastSuccess": "2026-11-13T11:05:41+08:00"
     },
     {
       "id": "north",
@@ -32,26 +32,78 @@
       "url": "https://www.ntbna.gov.tw/Rss/374fe8c4b18e48c691a6806ac02b9984",
       "status": "ok",
       "count": 182,
-      "lastSuccess": "2026-11-12T11:33:23+08:00"
+      "lastSuccess": "2026-11-13T11:05:41+08:00"
     },
     {
       "id": "south",
       "name": "南區國稅局",
       "url": "https://www.ntbsa.gov.tw/Rss/5e0e49a811b74b50b5a6486d38374285",
       "status": "ok",
-      "count": 61,
-      "lastSuccess": "2026-11-12T11:33:23+08:00"
+      "count": 60,
+      "lastSuccess": "2026-11-13T11:05:41+08:00"
     },
     {
       "id": "taipei",
       "name": "臺北國稅局",
       "url": "https://www.ntbt.gov.tw/Rss/41ae3594197f4f69b47753ce08188516",
       "status": "ok",
-      "count": 290,
-      "lastSuccess": "2026-11-12T11:33:23+08:00"
+      "count": 283,
+      "lastSuccess": "2026-11-13T11:05:41+08:00"
     }
   ],
   "articles": [
+    {
+      "id": "2bab38080d5d88745bb6",
+      "url": "https://www.ntbt.gov.tw/singlehtml/41ae3594197f4f69b47753ce08188516?cntId=09ea09bdeb6042c3b5ee836d92949f04",
+      "title": "個人因非自願離職而出售房地，倘無居住事實，則無法適用優惠稅率",
+      "date": "2026-11-12",
+      "source": "臺北國稅局",
+      "sourceId": "taipei",
+      "category": "其他稅務",
+      "summary": "財政部臺北國稅局表示，個人因調職、非自願離職或其他非自願性因素，而交易105年1月1日以後取得且持有期間在5年以內之房地，如果沒有居住於該房地的事實，無法適用所得稅法第14條之4第3項第1款第5目規定之20%優惠稅率。 該局說明，財政部110年6月11日公告適用20%優惠稅率之非自願性因素態樣，其中包括個人或其配偶原於工作地點購買房地，辦竣戶籍及實際居住，且無出租、供營業或執行業務使用，嗣因調職或…",
+      "summaryType": "官方摘要節錄",
+      "firstSeen": "2026-11-13T11:05:41+08:00",
+      "contentHash": "13a14ad752fee7461374cd1a434964687f281afdfc32151c8f0c730f8c8475f5"
+    },
+    {
+      "id": "8a48eabf687145b391bc",
+      "url": "https://www.ntbca.gov.tw/singlehtml/3c844e426e9c4b5ebcaaa18694d7e230?cntId=df9f0c2b0d0b400b862e5c2ba2f38822",
+      "title": "營利事業未(短)繳暫繳稅款請於11月30日前利用多元繳稅管道繳納",
+      "date": "2026-11-12",
+      "source": "中區國稅局",
+      "sourceId": "central",
+      "category": "營利事業所得稅",
+      "summary": "財政部中區國稅局表示，曆年制會計年度之營利事業未辦理或未(短)繳納今(115)年度營利事業所得稅暫繳稅款，經核定暫繳稅額開徵案件已陸續寄發繳款書，繳納期間為今年11月16日至11月30日止，請營利事業儘速於繳納期間內運用多元繳稅管道繳納稅款。 中區國稅局說明，營利事業繳納營利事業所得稅暫繳稅款，請多採用具延後付款、方便資金調度的信用卡繳納稅款，納稅義務人可直接透過行動裝置掃描繳款書上QR-Code…",
+      "summaryType": "官方摘要節錄",
+      "firstSeen": "2026-11-13T11:05:41+08:00",
+      "contentHash": "506b5b76d3c5745685271f9826a5d8a09d1e34ed556cd931bff962f38e4b6e68"
+    },
+    {
+      "id": "5596b5cc17b6624f5b44",
+      "url": "https://www.mof.gov.tw/singlehtml/384fb3077bb349ea973e7fc6f13b6974?cntId=dc9b6a7e5f7645c4ba286d6f2fa4d022",
+      "title": "營利事業未(短)繳暫繳稅款請於11月30日前利用多元繳稅管道繳納",
+      "date": "2026-11-12",
+      "source": "財政部",
+      "sourceId": "mof",
+      "category": "營利事業所得稅",
+      "summary": "財政部中區國稅局表示，曆年制會計年度之營利事業未辦理或未(短)繳納今(115)年度營利事業所得稅暫繳稅款，經核定暫繳稅額開徵案件已陸續寄發繳款書，繳納期間為今年11月16日至11月30日止，請營利事業儘速於繳納期間內運用多元繳稅管道繳納稅款。 中區國稅局說明，營利事業繳納營利事業所得稅暫繳稅款，請多採用具延後付款、方便資金調度的信用卡繳納稅款，納稅義務人可直接透過行動裝置掃描繳款書上QR-Code…",
+      "summaryType": "官方摘要節錄",
+      "firstSeen": "2026-11-13T11:05:41+08:00",
+      "contentHash": "506b5b76d3c5745685271f9826a5d8a09d1e34ed556cd931bff962f38e4b6e68"
+    },
+    {
+      "id": "9179f49980576ae34143",
+      "url": "https://www.mof.gov.tw/singlehtml/384fb3077bb349ea973e7fc6f13b6974?cntId=551441aa80fc456db4a832a962a23693",
+      "title": "臺中關赴報關公會業務宣導，聚焦輔導四大違規態樣，深獲業者肯定",
+      "date": "2026-11-12",
+      "source": "財政部",
+      "sourceId": "mof",
+      "category": "其他稅務",
+      "summary": "為加強與業界交流與溝通，增進通關政策與業務宣導成效，財政部關務署臺中關於115年11月4日由賴副關務長俊男率各級業務主管赴臺中市報關商業同業公會辦理業務宣導及座談，協助業者掌握最新法令規定、實務作業規定及應注意事項，會中就雙方所提議題充分溝通討論與交換意見，獲得該公會蔡銘湟理事長及全體理監事一致肯定。 臺中關說明，本次座談會宣導內容包括「待補免稅函期限及稅則申報錯誤案例」、「違規轉運及C1報單輸美…",
+      "summaryType": "官方摘要節錄",
+      "firstSeen": "2026-11-13T11:05:41+08:00",
+      "contentHash": "44ad0b8d439a6b7917cf11270de7992c75bc6efe55f9520e62a1d72905e616f1"
+    },
     {
       "id": "2915c562af1e4270c7a5",
       "url": "https://www.ntbt.gov.tw/singlehtml/41ae3594197f4f69b47753ce08188516?cntId=ec4c7a9a8be24382a4db4343c2359a35",
