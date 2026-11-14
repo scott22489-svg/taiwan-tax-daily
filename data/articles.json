@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T11:05:41+08:00",
+  "updatedAt": "2026-11-14T10:52:32+08:00",
   "sources": [
     {
       "id": "central",
@@ -7,7 +7,7 @@
       "url": "https://www.ntbca.gov.tw/Rss/3c844e426e9c4b5ebcaaa18694d7e230",
       "status": "ok",
       "count": 87,
-      "lastSuccess": "2026-11-13T11:05:41+08:00"
+      "lastSuccess": "2026-11-14T10:52:32+08:00"
     },
     {
       "id": "kaohsiung",
@@ -15,7 +15,7 @@
       "url": "https://www.ntbk.gov.tw/Rss/8edee6a2f90d4254a5e8d38c1db38137",
       "status": "ok",
       "count": 212,
-      "lastSuccess": "2026-11-13T11:05:41+08:00"
+      "lastSuccess": "2026-11-14T10:52:32+08:00"
     },
     {
       "id": "mof",
@@ -23,16 +23,16 @@
       "url": "https://www.mof.gov.tw/Rss/384fb3077bb349ea973e7fc6f13b6974",
       "taxOnly": true,
       "status": "ok",
-      "count": 896,
-      "lastSuccess": "2026-11-13T11:05:41+08:00"
+      "count": 894,
+      "lastSuccess": "2026-11-14T10:52:32+08:00"
     },
     {
       "id": "north",
       "name": "北區國稅局",
       "url": "https://www.ntbna.gov.tw/Rss/374fe8c4b18e48c691a6806ac02b9984",
       "status": "ok",
-      "count": 182,
-      "lastSuccess": "2026-11-13T11:05:41+08:00"
+      "count": 181,
+      "lastSuccess": "2026-11-14T10:52:32+08:00"
     },
     {
       "id": "south",
@@ -40,18 +40,44 @@
       "url": "https://www.ntbsa.gov.tw/Rss/5e0e49a811b74b50b5a6486d38374285",
       "status": "ok",
       "count": 60,
-      "lastSuccess": "2026-11-13T11:05:41+08:00"
+      "lastSuccess": "2026-11-14T10:52:32+08:00"
     },
     {
       "id": "taipei",
       "name": "臺北國稅局",
       "url": "https://www.ntbt.gov.tw/Rss/41ae3594197f4f69b47753ce08188516",
       "status": "ok",
-      "count": 283,
-      "lastSuccess": "2026-11-13T11:05:41+08:00"
+      "count": 284,
+      "lastSuccess": "2026-11-14T10:52:32+08:00"
     }
   ],
   "articles": [
+    {
+      "id": "a77b192961b9cda729da",
+      "url": "https://www.ntbt.gov.tw/singlehtml/41ae3594197f4f69b47753ce08188516?cntId=aa31a38db859484ab8fed07f77b965f1",
+      "title": "個人出售受贈取得之房地，申報房地合一稅時應如何計算取得成本？",
+      "date": "2026-11-13",
+      "source": "臺北國稅局",
+      "sourceId": "taipei",
+      "category": "房地合一／不動產",
+      "summary": "財政部臺北國稅局表示，個人出售105年1月1日以後受贈取得之房地，屬所得稅法第4條之4所定房地合一稅課稅範圍，該房地取得成本應按同法第14條之4規定，以受贈時之房屋評定現值及公告土地現值按政府發布之消費者物價指數調整後之價值計算。 該局說明，房地如為受贈取得，其可減除成本除前述之受贈時的房屋評定現值及公告土地現值按政府發布之消費者物價指數調整後的價值外，如果有一、取得房地達可供使用狀態前支付的必要…",
+      "summaryType": "官方摘要節錄",
+      "firstSeen": "2026-11-14T10:52:32+08:00",
+      "contentHash": "44e6eda8856fbe4c9d874d621bcf9faec8757c23ecea2c89f0cf3b5114ec490c"
+    },
+    {
+      "id": "a301c052397428a894e9",
+      "url": "https://www.mof.gov.tw/singlehtml/384fb3077bb349ea973e7fc6f13b6974?cntId=4152d3a619d84b4ba2e913746c3d904c",
+      "title": "個人出售受贈取得之房地，申報房地合一稅時應如何計算取得成本？",
+      "date": "2026-11-13",
+      "source": "財政部",
+      "sourceId": "mof",
+      "category": "房地合一／不動產",
+      "summary": "財政部臺北國稅局表示，個人出售105年1月1日以後受贈取得之房地，屬所得稅法第4條之4所定房地合一稅課稅範圍，該房地取得成本應按同法第14條之4規定，以受贈時之房屋評定現值及公告土地現值按政府發布之消費者物價指數調整後之價值計算。 該局說明，房地如為受贈取得，其可減除成本除前述之受贈時的房屋評定現值及公告土地現值按政府發布之消費者物價指數調整後的價值外，如果有一、取得房地達可供使用狀態前支付的必要…",
+      "summaryType": "官方摘要節錄",
+      "firstSeen": "2026-11-14T10:52:32+08:00",
+      "contentHash": "44e6eda8856fbe4c9d874d621bcf9faec8757c23ecea2c89f0cf3b5114ec490c"
+    },
     {
       "id": "2bab38080d5d88745bb6",
       "url": "https://www.ntbt.gov.tw/singlehtml/41ae3594197f4f69b47753ce08188516?cntId=09ea09bdeb6042c3b5ee836d92949f04",
