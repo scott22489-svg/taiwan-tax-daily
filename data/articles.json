@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-11-20T11:50:22+08:00",
+  "updatedAt": "2026-11-21T11:42:29+08:00",
   "sources": [
     {
       "id": "central",
       "name": "中區國稅局",
       "url": "https://www.ntbca.gov.tw/Rss/3c844e426e9c4b5ebcaaa18694d7e230",
       "status": "ok",
-      "count": 82,
-      "lastSuccess": "2026-11-20T11:50:22+08:00"
+      "count": 80,
+      "lastSuccess": "2026-11-21T11:42:29+08:00"
     },
     {
       "id": "kaohsiung",
       "name": "高雄國稅局",
       "url": "https://www.ntbk.gov.tw/Rss/8edee6a2f90d4254a5e8d38c1db38137",
       "status": "ok",
-      "count": 223,
-      "lastSuccess": "2026-11-20T11:50:22+08:00"
+      "count": 224,
+      "lastSuccess": "2026-11-21T11:42:29+08:00"
     },
     {
       "id": "mof",
@@ -24,7 +24,7 @@
       "taxOnly": true,
       "status": "ok",
       "count": 892,
-      "lastSuccess": "2026-11-20T11:50:22+08:00"
+      "lastSuccess": "2026-11-21T11:42:29+08:00"
     },
     {
       "id": "north",
@@ -32,7 +32,7 @@
       "url": "https://www.ntbna.gov.tw/Rss/374fe8c4b18e48c691a6806ac02b9984",
       "status": "ok",
       "count": 181,
-      "lastSuccess": "2026-11-20T11:50:22+08:00"
+      "lastSuccess": "2026-11-21T11:42:29+08:00"
     },
     {
       "id": "south",
@@ -40,7 +40,7 @@
       "url": "https://www.ntbsa.gov.tw/Rss/5e0e49a811b74b50b5a6486d38374285",
       "status": "ok",
       "count": 63,
-      "lastSuccess": "2026-11-20T11:50:22+08:00"
+      "lastSuccess": "2026-11-21T11:42:29+08:00"
     },
     {
       "id": "taipei",
@@ -48,10 +48,36 @@
       "url": "https://www.ntbt.gov.tw/Rss/41ae3594197f4f69b47753ce08188516",
       "status": "ok",
       "count": 284,
-      "lastSuccess": "2026-11-20T11:50:22+08:00"
+      "lastSuccess": "2026-11-21T11:42:29+08:00"
     }
   ],
   "articles": [
+    {
+      "id": "ba58f08b207b139a71fe",
+      "url": "https://www.ntbt.gov.tw/singlehtml/41ae3594197f4f69b47753ce08188516?cntId=a5e09a22d770413d8a3d1c136edaf2fd",
+      "title": "跨年度銷貨退回，應列報於實際退回年度，正確申報保障企業權益",
+      "date": "2026-11-20",
+      "source": "臺北國稅局",
+      "sourceId": "taipei",
+      "category": "營利事業所得稅",
+      "summary": "財政部臺北國稅局表示，營利事業銷售商品後，客戶如因商品瑕疪，規格不符或其他原因辦理退貨，應依實際退回年度，正確列報銷貨退回，尤其是銷貨與退貨發生於不同年度，應將銷貨退回列報於實際發生退回之年度，以確保各年度營利事業所得稅申報正確。 該局說明，依營利事業所得稅查核準則第19條第1項規定，營利事業發生銷貨退回，應於帳簿記錄沖轉並依統一發票使用辦法第20條規定取得相關憑證，或有其他確實證據證明退貨事實，…",
+      "summaryType": "官方摘要節錄",
+      "firstSeen": "2026-11-21T11:42:29+08:00",
+      "contentHash": "1038306aa0fc48872d3aad7c00fe38ba01b251a6adc0debefb002f8a55328489"
+    },
+    {
+      "id": "9fc373fa00bcd5c886f5",
+      "url": "https://www.ntbk.gov.tw/singlehtml/8edee6a2f90d4254a5e8d38c1db38137?cntId=11eab670aa824cb4ae34963da428da41",
+      "title": "手搖飲店支付一次性加盟金，應按合約期間攤銷列報營利事業所得稅",
+      "date": "2026-11-20",
+      "source": "高雄國稅局",
+      "sourceId": "kaohsiung",
+      "category": "營利事業所得稅",
+      "summary": "消費者習慣改變，手搖飲店林立，為借力成熟品牌的市場知名度與客源並求快速上手，創業主多選擇以加盟方式經營，所支付之一次性高額加盟金，於辦理當年度營利事業所得稅（下稱營所稅）結算申報，應留意按加盟合約書所訂期間攤銷，而非全額列報為當期費用。 財政部高雄國稅局表示，新設立之手搖飲店（加盟店主）向營業人（加盟總部）支付一次性開店加盟金時，應依法取得進項統一發票，基於收入成本配合原則及權責發生制，加盟金支出…",
+      "summaryType": "官方摘要節錄",
+      "firstSeen": "2026-11-21T11:42:29+08:00",
+      "contentHash": "34a91a3f559934dec7feb81262e03d1ab5b17f31210f12e05c09592be6899bc6"
+    },
     {
       "id": "6138ac394ded21d43b9f",
       "url": "https://www.ntbca.gov.tw/singlehtml/3c844e426e9c4b5ebcaaa18694d7e230?cntId=f2a0cfa0ebdd4dfe9d24884f1484526a",
@@ -64,6 +90,45 @@
       "summaryType": "官方摘要節錄",
       "firstSeen": "2026-11-20T11:50:22+08:00",
       "contentHash": "cac34cca2c69d4d22065cafbaf1f5844223aa89837df9bf09327411fcec2a1ce"
+    },
+    {
+      "id": "980523ecf175c03b22d4",
+      "url": "https://www.mof.gov.tw/singlehtml/384fb3077bb349ea973e7fc6f13b6974?cntId=efb78d7ae0654d5cab0287b857c55a4b",
+      "title": "手搖飲店支付一次性加盟金，應按合約期間攤銷列報營利事業所得稅",
+      "date": "2026-11-20",
+      "source": "財政部",
+      "sourceId": "mof",
+      "category": "營利事業所得稅",
+      "summary": "消費者習慣改變，手搖飲店林立，為借力成熟品牌的市場知名度與客源並求快速上手，創業主多選擇以加盟方式經營，所支付之一次性高額加盟金，於辦理當年度營利事業所得稅（下稱營所稅）結算申報，應留意按加盟合約書所訂期間攤銷，而非全額列報為當期費用。 財政部高雄國稅局表示，新設立之手搖飲店（加盟店主）向營業人（加盟總部）支付一次性開店加盟金時，應依法取得進項統一發票，基於收入成本配合原則及權責發生制，加盟金支出…",
+      "summaryType": "官方摘要節錄",
+      "firstSeen": "2026-11-21T11:42:29+08:00",
+      "contentHash": "34a91a3f559934dec7feb81262e03d1ab5b17f31210f12e05c09592be6899bc6"
+    },
+    {
+      "id": "9a5bf841b78eb416642b",
+      "url": "https://www.mof.gov.tw/singlehtml/384fb3077bb349ea973e7fc6f13b6974?cntId=b6ab1c172198439286c5cb025151cb7e",
+      "title": "核釋我國公司與其我國子公司合併，申報受控外國企業（CFC）投資收益規定",
+      "date": "2026-11-20",
+      "source": "財政部",
+      "sourceId": "mof",
+      "category": "營利事業所得稅",
+      "summary": "財政部於今（20）日核釋，我國公司與其國內子公司合併，合併存續之母公司取得合併消滅子公司持有之中華民國境外低稅負國家或地區（下稱低稅負區）關係企業股份或資本額，該子公司因合併解散依所得稅法第75條規定辦理營利事業所得稅（下稱營所稅）決算申報時，免依同法第43條之3（下稱CFC制度）認列投資收益；該母公司辦理合併基準日所屬年度營所稅結算申報時，應合併計算其持有及原該子公司持有該低稅負區關係企業股份或…",
+      "summaryType": "官方摘要節錄",
+      "firstSeen": "2026-11-21T11:42:29+08:00",
+      "contentHash": "70e65831830bbc6bdcdbc1390c8fcbacd34b5a4d081365fad02bcca1d55e1cdb"
+    },
+    {
+      "id": "107ff15ff954f63a7bd0",
+      "url": "https://www.mof.gov.tw/singlehtml/384fb3077bb349ea973e7fc6f13b6974?cntId=7f959992fd3c4821a1cf0840d202d7c6",
+      "title": "莊部長翠雲主持財政部115年聯合表揚大會，肯定獲獎者的努力並期勉同仁見賢思齊",
+      "date": "2026-11-20",
+      "source": "財政部",
+      "sourceId": "mof",
+      "category": "其他稅務",
+      "summary": "財政部於115年11月20日（星期五）下午在該部財政人員訓練所1樓國際會議廳舉行聯合表揚大會，由莊翠雲部長主持及表揚115年財政部模範公務人員及財政優秀人員等各類獎項。 本次大會表揚之獎項包含模範公務人員、財政優秀人員、政府服務獎績優機關、創意提案、以及自行研究報告績優作品等。獲獎同仁與機關在賦稅改革、稅務行政、國庫管理、國有財產管理、關務制度、財政資訊、國營金融保險、生產事業及各項財政領域之推展…",
+      "summaryType": "官方摘要節錄",
+      "firstSeen": "2026-11-21T11:42:29+08:00",
+      "contentHash": "3b99331f9de0b86ddcfc69ab418fc7a9b7740e240bd5ccaee62f5038ebbfa85e"
     },
     {
       "id": "1114d348846a2ff1df62",
@@ -115,7 +180,7 @@
       "summary": "財政部北區國稅局表示，公司為了進行資源整合或擴大營運規模而辦理併購，依企業併購法第43條第1項規定，合併後存續或新設公司於辦理營利事業所得稅結算申報時，得將各該參與合併的公司，於合併前依所得稅法第39條規定得扣除的各期虧損，按各該公司股東因合併而持有合併後存續或新設公司股權的比例重新計算可扣除的虧損金額，自虧損發生年度起10年內自當年度純益額中扣除。 該局舉例說明，甲公司於112年7月1日與乙公司…",
       "summaryType": "官方摘要節錄",
       "firstSeen": "2026-11-20T11:50:22+08:00",
-      "contentHash": "2559dea0a67ee4c708e291defe589f9fd66d4881ec387507510edcf3d51ef5f2"
+      "contentHash": "a064e4ee6f9767f4b7eeddeccad0d1da0660bc1cc34e0b75a6601ef0580811c5"
     },
     {
       "id": "6df6368466d6d22ac78a",
