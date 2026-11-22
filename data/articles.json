@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T11:42:29+08:00",
+  "updatedAt": "2026-11-22T10:47:01+08:00",
   "sources": [
     {
       "id": "central",
@@ -7,7 +7,7 @@
       "url": "https://www.ntbca.gov.tw/Rss/3c844e426e9c4b5ebcaaa18694d7e230",
       "status": "ok",
       "count": 80,
-      "lastSuccess": "2026-11-21T11:42:29+08:00"
+      "lastSuccess": "2026-11-22T10:47:01+08:00"
     },
     {
       "id": "kaohsiung",
@@ -15,7 +15,7 @@
       "url": "https://www.ntbk.gov.tw/Rss/8edee6a2f90d4254a5e8d38c1db38137",
       "status": "ok",
       "count": 224,
-      "lastSuccess": "2026-11-21T11:42:29+08:00"
+      "lastSuccess": "2026-11-22T10:47:01+08:00"
     },
     {
       "id": "mof",
@@ -23,24 +23,24 @@
       "url": "https://www.mof.gov.tw/Rss/384fb3077bb349ea973e7fc6f13b6974",
       "taxOnly": true,
       "status": "ok",
-      "count": 892,
-      "lastSuccess": "2026-11-21T11:42:29+08:00"
+      "count": 893,
+      "lastSuccess": "2026-11-22T10:47:01+08:00"
     },
     {
       "id": "north",
       "name": "北區國稅局",
       "url": "https://www.ntbna.gov.tw/Rss/374fe8c4b18e48c691a6806ac02b9984",
       "status": "ok",
-      "count": 181,
-      "lastSuccess": "2026-11-21T11:42:29+08:00"
+      "count": 182,
+      "lastSuccess": "2026-11-22T10:47:01+08:00"
     },
     {
       "id": "south",
       "name": "南區國稅局",
       "url": "https://www.ntbsa.gov.tw/Rss/5e0e49a811b74b50b5a6486d38374285",
       "status": "ok",
-      "count": 63,
-      "lastSuccess": "2026-11-21T11:42:29+08:00"
+      "count": 62,
+      "lastSuccess": "2026-11-22T10:47:01+08:00"
     },
     {
       "id": "taipei",
@@ -48,10 +48,36 @@
       "url": "https://www.ntbt.gov.tw/Rss/41ae3594197f4f69b47753ce08188516",
       "status": "ok",
       "count": 284,
-      "lastSuccess": "2026-11-21T11:42:29+08:00"
+      "lastSuccess": "2026-11-22T10:47:01+08:00"
     }
   ],
   "articles": [
+    {
+      "id": "f11caf4886320fa61382",
+      "url": "https://www.ntbna.gov.tw/singlehtml/374fe8c4b18e48c691a6806ac02b9984?cntId=013b7bc09395481eaa2b2fc10a5d5822",
+      "title": "「全國租稅達人爭霸賽」總決賽圓滿落幕，財稅新秀展現超高稅務素養，驚豔全場！",
+      "date": "2026-11-21",
+      "source": "北區國稅局",
+      "sourceId": "north",
+      "category": "其他稅務",
+      "summary": "財政部北區國稅局表示，為提升青年學子租稅素養，並推廣使用雲端發票，該局主辦115年度「全國租稅達人爭霸賽」租稅教育及宣導活動，總決賽於115年11月21日在致理科技大學舉行，活動圓滿落幕，中原大學「找點事情做」、國立臺北商業大學「再稅五秒鐘」及國立臺北商業大學「68crazy俱樂部」分別榮獲前三名佳績。 該局說明，本次競賽運用近年數位教學科技平臺「Kahoot!」，結合以國稅新頒法令、稽徵實務及便…",
+      "summaryType": "官方摘要節錄",
+      "firstSeen": "2026-11-22T10:47:01+08:00",
+      "contentHash": "32555c776e2966b0fda71adf5f650f271d504010aeb6b5b34b707e884632d913"
+    },
+    {
+      "id": "e0a1e4dfc68ad098285e",
+      "url": "https://www.mof.gov.tw/singlehtml/384fb3077bb349ea973e7fc6f13b6974?cntId=6eb102e52aa0463292836aca0dfaf426",
+      "title": "「全國租稅達人爭霸賽」總決賽圓滿落幕，財稅新秀展現超高稅務素養，驚豔全場！",
+      "date": "2026-11-21",
+      "source": "財政部",
+      "sourceId": "mof",
+      "category": "其他稅務",
+      "summary": "財政部北區國稅局表示，為提升青年學子租稅素養，並推廣使用雲端發票，該局主辦115年度「全國租稅達人爭霸賽」租稅教育及宣導活動，總決賽於115年11月21日在致理科技大學舉行，活動圓滿落幕，中原大學「找點事情做」、國立臺北商業大學「再稅五秒鐘」及國立臺北商業大學「68crazy俱樂部」分別榮獲前三名佳績。 該局說明，本次競賽運用近年數位教學科技平臺「Kahoot!」，結合以國稅新頒法令、稽徵實務及便…",
+      "summaryType": "官方摘要節錄",
+      "firstSeen": "2026-11-22T10:47:01+08:00",
+      "contentHash": "32555c776e2966b0fda71adf5f650f271d504010aeb6b5b34b707e884632d913"
+    },
     {
       "id": "ba58f08b207b139a71fe",
       "url": "https://www.ntbt.gov.tw/singlehtml/41ae3594197f4f69b47753ce08188516?cntId=a5e09a22d770413d8a3d1c136edaf2fd",
