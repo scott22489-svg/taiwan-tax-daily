@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-24T14:42:09+08:00",
+  "updatedAt": "2026-11-25T13:11:43+08:00",
   "sources": [
     {
       "id": "central",
       "name": "中區國稅局",
       "url": "https://www.ntbca.gov.tw/Rss/3c844e426e9c4b5ebcaaa18694d7e230",
       "status": "ok",
-      "count": 82,
-      "lastSuccess": "2026-11-24T14:42:09+08:00"
+      "count": 81,
+      "lastSuccess": "2026-11-25T13:11:43+08:00"
     },
     {
       "id": "kaohsiung",
@@ -15,7 +15,7 @@
       "url": "https://www.ntbk.gov.tw/Rss/8edee6a2f90d4254a5e8d38c1db38137",
       "status": "ok",
       "count": 216,
-      "lastSuccess": "2026-11-24T14:42:09+08:00"
+      "lastSuccess": "2026-11-25T13:11:43+08:00"
     },
     {
       "id": "mof",
@@ -23,8 +23,8 @@
       "url": "https://www.mof.gov.tw/Rss/384fb3077bb349ea973e7fc6f13b6974",
       "taxOnly": true,
       "status": "ok",
-      "count": 887,
-      "lastSuccess": "2026-11-24T14:42:09+08:00"
+      "count": 885,
+      "lastSuccess": "2026-11-25T13:11:43+08:00"
     },
     {
       "id": "north",
@@ -32,26 +32,52 @@
       "url": "https://www.ntbna.gov.tw/Rss/374fe8c4b18e48c691a6806ac02b9984",
       "status": "ok",
       "count": 183,
-      "lastSuccess": "2026-11-24T14:42:09+08:00"
+      "lastSuccess": "2026-11-25T13:11:43+08:00"
     },
     {
       "id": "south",
       "name": "南區國稅局",
       "url": "https://www.ntbsa.gov.tw/Rss/5e0e49a811b74b50b5a6486d38374285",
       "status": "ok",
-      "count": 65,
-      "lastSuccess": "2026-11-24T14:42:09+08:00"
+      "count": 66,
+      "lastSuccess": "2026-11-25T13:11:43+08:00"
     },
     {
       "id": "taipei",
       "name": "臺北國稅局",
       "url": "https://www.ntbt.gov.tw/Rss/41ae3594197f4f69b47753ce08188516",
       "status": "ok",
-      "count": 284,
-      "lastSuccess": "2026-11-24T14:42:09+08:00"
+      "count": 283,
+      "lastSuccess": "2026-11-25T13:11:43+08:00"
     }
   ],
   "articles": [
+    {
+      "id": "7d817337ae8ef36ac88c",
+      "url": "https://www.ntbca.gov.tw/singlehtml/3c844e426e9c4b5ebcaaa18694d7e230?cntId=af2a913d92c644aa9973cae7bfd01cb1",
+      "title": "寒暑假打工注意！ 5招防阻逃漏稅工具",
+      "date": "2026-11-25",
+      "source": "中區國稅局",
+      "sourceId": "central",
+      "category": "其他稅務",
+      "summary": "財政部中區國稅局豐原分局表示，寒暑假期間預計工讀的學生，在找工作時，切勿輕忽而隨意將身分證、印章及銀行存摺交給他人，避免遭不法使用成為逃漏稅之工具。 該分局說明，偶有學生因為不熟悉稅法規定，又急著在寒暑假開始前找到工作，而在求職時應不肖雇主的要求，輕易地交付個人身分證件或銀行存摺等重要資料，直到隔年申報綜合所得稅期間，才發現短暫工作數月，但雇主所列報之薪資所得卻高於實際領取金額，甚至有些人是接獲國…",
+      "summaryType": "官方摘要節錄",
+      "firstSeen": "2026-11-25T13:11:43+08:00",
+      "contentHash": "840b0be91f01fbb42d5d3b7ac0faea1ccd9302c05227fa28be3e7a28fef37e29"
+    },
+    {
+      "id": "45d0d91f6f63b7d7032f",
+      "url": "https://www.ntbsa.gov.tw/singlehtml/5e0e49a811b74b50b5a6486d38374285?cntId=b41db4d32e7f45428c31b95c64bf0a12",
+      "title": "「喜氣洋洋迎新春」2027日月曆兌換活動將於115年12月8日開始囉!",
+      "date": "2026-11-24",
+      "source": "南區國稅局",
+      "sourceId": "south",
+      "category": "營業稅",
+      "summary": "財政部南區國稅局恆春稽徵所表示，為鼓勵民眾購物消費使用載具儲存雲端發票，該所特別於歲末舉辦「喜氣洋洋迎新春」兌換2027日、月曆活動。 該所進一步說明，活動自115年12月8日(星期二)上午9時開始，民眾於辦公時間(9：00-12：00；13：00-17：00)至該所(恆春鎮南門路98號)2樓，捐出115年11-12月期每張消費金額新臺幣10元(含)以上雲端發票5張(紙本發票10張)，可兌換月曆或…",
+      "summaryType": "官方摘要節錄",
+      "firstSeen": "2026-11-25T13:11:43+08:00",
+      "contentHash": "f139ddb7b8e745b560e600ab0ff310456f61d0412d9f73b1b8a139177d39df05"
+    },
     {
       "id": "25f855ab27d089fe4a63",
       "url": "https://www.ntbca.gov.tw/singlehtml/3c844e426e9c4b5ebcaaa18694d7e230?cntId=6f7e96bbfefa4cec995d5d2c861dc1a9",
@@ -64,6 +90,32 @@
       "summaryType": "官方摘要節錄",
       "firstSeen": "2026-11-24T14:42:09+08:00",
       "contentHash": "1ba207e776a3c471451c63e428376c7791ce73098e4886562e1b1cdee47b7f8c"
+    },
+    {
+      "id": "dd8e0a720a8c430382f0",
+      "url": "https://www.mof.gov.tw/singlehtml/384fb3077bb349ea973e7fc6f13b6974?cntId=ac37f5a5f8944d2b953bd7a19f55ee9b",
+      "title": "報運進口貨物應主動申報運費及其附加費以利通關",
+      "date": "2026-11-24",
+      "source": "財政部",
+      "sourceId": "mof",
+      "category": "營業稅",
+      "summary": "基隆關表示，報運進口貨物所需運費及其附加費應納入完稅價格計算，請納稅義務人詳實申報前開費用，以免海關審核時發現短（漏）報，影響自身權益。 基隆關說明，依關稅法第29條第3項第5款規定，貨物運輸至輸入口岸運費應計入進口貨物完稅價格計算。另運輸業者為從事國際運輸除收取基本運費外，亦收取各式附加費，如低硫燃油附加費等，該附加費屬運費一部分，不論由納稅義務人或國外賣方負擔，均應計入完稅價格計算向海關申報。…",
+      "summaryType": "官方摘要節錄",
+      "firstSeen": "2026-11-25T13:11:43+08:00",
+      "contentHash": "f99202632622d928735d731423c862db3f9cd125c4491dd72dda7962a1e4eb47"
+    },
+    {
+      "id": "f645d5af4de4cd240c37",
+      "url": "https://www.mof.gov.tw/singlehtml/384fb3077bb349ea973e7fc6f13b6974?cntId=255a0d3998c74620979a4f1d9d03eac5",
+      "title": "115年地價稅繳納期間至11月30日截止，請尚未繳納民眾儘早繳納",
+      "date": "2026-11-24",
+      "source": "財政部",
+      "sourceId": "mof",
+      "category": "房地合一／不動產",
+      "summary": "財政部賦稅署表示，今（115）年地價稅已於11月1日開徵，繳納期限至同月30日（星期一），提醒納稅義務人儘速繳納，繳款書遺失或尚未收到者，請向土地所在地之地方稅稽徵機關申請補發，也可至「財政部稅務入口網」（https://www.etax.nat.gov.tw）>「線上服務」>「電子稅務文件」項下「線上申請」，或至各地方稅稽徵機關網站線上申請補發。 依土地稅法第53條第1項及稅捐稽徵法第20條第1…",
+      "summaryType": "官方摘要節錄",
+      "firstSeen": "2026-11-25T13:11:43+08:00",
+      "contentHash": "f6217bc45959dccced3a5e8bb7cb0d488c63b50fe662ab22154a1d3822952ba2"
     },
     {
       "id": "35d1e056a9e08b92a8fe",
