@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-11-25T13:11:43+08:00",
+  "updatedAt": "2026-11-26T12:39:27+08:00",
   "sources": [
     {
       "id": "central",
       "name": "中區國稅局",
       "url": "https://www.ntbca.gov.tw/Rss/3c844e426e9c4b5ebcaaa18694d7e230",
       "status": "ok",
-      "count": 81,
-      "lastSuccess": "2026-11-25T13:11:43+08:00"
+      "count": 77,
+      "lastSuccess": "2026-11-26T12:39:27+08:00"
     },
     {
       "id": "kaohsiung",
       "name": "高雄國稅局",
       "url": "https://www.ntbk.gov.tw/Rss/8edee6a2f90d4254a5e8d38c1db38137",
       "status": "ok",
-      "count": 216,
-      "lastSuccess": "2026-11-25T13:11:43+08:00"
+      "count": 215,
+      "lastSuccess": "2026-11-26T12:39:27+08:00"
     },
     {
       "id": "mof",
@@ -23,24 +23,24 @@
       "url": "https://www.mof.gov.tw/Rss/384fb3077bb349ea973e7fc6f13b6974",
       "taxOnly": true,
       "status": "ok",
-      "count": 885,
-      "lastSuccess": "2026-11-25T13:11:43+08:00"
+      "count": 879,
+      "lastSuccess": "2026-11-26T12:39:27+08:00"
     },
     {
       "id": "north",
       "name": "北區國稅局",
       "url": "https://www.ntbna.gov.tw/Rss/374fe8c4b18e48c691a6806ac02b9984",
       "status": "ok",
-      "count": 183,
-      "lastSuccess": "2026-11-25T13:11:43+08:00"
+      "count": 179,
+      "lastSuccess": "2026-11-26T12:39:27+08:00"
     },
     {
       "id": "south",
       "name": "南區國稅局",
       "url": "https://www.ntbsa.gov.tw/Rss/5e0e49a811b74b50b5a6486d38374285",
       "status": "ok",
-      "count": 66,
-      "lastSuccess": "2026-11-25T13:11:43+08:00"
+      "count": 68,
+      "lastSuccess": "2026-11-26T12:39:27+08:00"
     },
     {
       "id": "taipei",
@@ -48,10 +48,36 @@
       "url": "https://www.ntbt.gov.tw/Rss/41ae3594197f4f69b47753ce08188516",
       "status": "ok",
       "count": 283,
-      "lastSuccess": "2026-11-25T13:11:43+08:00"
+      "lastSuccess": "2026-11-26T12:39:27+08:00"
     }
   ],
   "articles": [
+    {
+      "id": "fa23e880fd5c13a7458f",
+      "url": "https://www.ntbsa.gov.tw/singlehtml/5e0e49a811b74b50b5a6486d38374285?cntId=e860a15e3b1e4a9fb9b4e5be8f7d6b45",
+      "title": "喜氣洋洋迎新春「捐發票換月(桌)曆、日曆」活動開跑！",
+      "date": "2026-11-25",
+      "source": "南區國稅局",
+      "sourceId": "south",
+      "category": "營業稅",
+      "summary": "新年將至，財政部南區國稅局民雄稽徵所捐發票換月(桌)或日曆活動將於115年12月8日（星期二）上午8時30分於該所1樓開跑，凡捐贈115年11-12月期，每張消費金額新臺幣10元(含)以上一定張數之雲端發票(或紙本發票)，即可兌換月曆、桌曆或日曆1本(詳活動海報)，每人限兌領1本，數量有限，兌完為止。 該所進一步說明，現場除了「喜氣洋洋迎新春」活動，也提供稅務諮詢及下載統一發票兌獎APP服務，捐發…",
+      "summaryType": "官方摘要節錄",
+      "firstSeen": "2026-11-26T12:39:27+08:00",
+      "contentHash": "b6bb3b551fa65a7fa63a317dafecdfdd367e797377270b96878a5410392977f7"
+    },
+    {
+      "id": "a905e9d209b7a5ab2d7d",
+      "url": "https://www.ntbsa.gov.tw/singlehtml/5e0e49a811b74b50b5a6486d38374285?cntId=5e808e4049ae46f1ba07ef8039592e05",
+      "title": "捐發票換2027年新曆活動即將展開！",
+      "date": "2026-11-25",
+      "source": "南區國稅局",
+      "sourceId": "south",
+      "category": "營業稅",
+      "summary": "為鼓勵民眾購物消費以載具儲存雲端發票及宣導租稅常識，財政部南區國稅局臺東分局將舉辦「喜氣洋洋迎新春」租稅宣導活動，自115年12月8日（星期二）上午9時起，於上班時間（例假日除外）在該分局3樓服務宣導櫃檯提供2027年精美日曆、月曆及桌曆，歡迎民眾捐發票兌換。 該分局表示，本次活動所兌換的「新春飛羊好運到」月曆以臺灣各月份當令水果為主題，結合租稅AI異次元圖像創作競賽活動入選作品，宣導手機報稅、雲…",
+      "summaryType": "官方摘要節錄",
+      "firstSeen": "2026-11-26T12:39:27+08:00",
+      "contentHash": "8d182718027f0a503dd2e5f3466a4a8b5c84eef84b545a4a3d679cec83eb9e86"
+    },
     {
       "id": "7d817337ae8ef36ac88c",
       "url": "https://www.ntbca.gov.tw/singlehtml/3c844e426e9c4b5ebcaaa18694d7e230?cntId=af2a913d92c644aa9973cae7bfd01cb1",
@@ -64,6 +90,19 @@
       "summaryType": "官方摘要節錄",
       "firstSeen": "2026-11-25T13:11:43+08:00",
       "contentHash": "840b0be91f01fbb42d5d3b7ac0faea1ccd9302c05227fa28be3e7a28fef37e29"
+    },
+    {
+      "id": "705da2b7e42d5c10f3a5",
+      "url": "https://www.mof.gov.tw/singlehtml/384fb3077bb349ea973e7fc6f13b6974?cntId=b08b95cab8c641478a782031a72dc131",
+      "title": "115年9-10月期統一發票中獎號碼",
+      "date": "2026-11-25",
+      "source": "財政部",
+      "sourceId": "mof",
+      "category": "營業稅",
+      "summary": "115年9-10月期統一發票中獎號碼於今（25）日下午2時在三立iNEWS新聞台頻道，以現場直播方式順利開出特別獎、特獎中獎號碼各1組、頭獎至六獎中獎號碼3組，並開出雲端發票專屬獎100萬元獎30組、2,000元獎16,000組、800元獎10萬組及500元獎435萬組。 本期開出特別獎獎金新臺幣（以下同）1,000萬元中獎號碼為「97606522」，特獎獎金200萬元中獎號碼為「76160702…",
+      "summaryType": "官方摘要節錄",
+      "firstSeen": "2026-11-26T12:39:27+08:00",
+      "contentHash": "4d276241b55c82b42349472b30c90dcbc440c6ca71a7750f1d10d0edfd9a52ca"
     },
     {
       "id": "45d0d91f6f63b7d7032f",
