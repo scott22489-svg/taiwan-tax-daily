@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T12:39:27+08:00",
+  "updatedAt": "2026-11-27T12:43:31+08:00",
   "sources": [
     {
       "id": "central",
@@ -7,15 +7,15 @@
       "url": "https://www.ntbca.gov.tw/Rss/3c844e426e9c4b5ebcaaa18694d7e230",
       "status": "ok",
       "count": 77,
-      "lastSuccess": "2026-11-26T12:39:27+08:00"
+      "lastSuccess": "2026-11-27T12:43:31+08:00"
     },
     {
       "id": "kaohsiung",
       "name": "高雄國稅局",
       "url": "https://www.ntbk.gov.tw/Rss/8edee6a2f90d4254a5e8d38c1db38137",
       "status": "ok",
-      "count": 215,
-      "lastSuccess": "2026-11-26T12:39:27+08:00"
+      "count": 213,
+      "lastSuccess": "2026-11-27T12:43:31+08:00"
     },
     {
       "id": "mof",
@@ -23,35 +23,48 @@
       "url": "https://www.mof.gov.tw/Rss/384fb3077bb349ea973e7fc6f13b6974",
       "taxOnly": true,
       "status": "ok",
-      "count": 879,
-      "lastSuccess": "2026-11-26T12:39:27+08:00"
+      "count": 871,
+      "lastSuccess": "2026-11-27T12:43:31+08:00"
     },
     {
       "id": "north",
       "name": "北區國稅局",
       "url": "https://www.ntbna.gov.tw/Rss/374fe8c4b18e48c691a6806ac02b9984",
       "status": "ok",
-      "count": 179,
-      "lastSuccess": "2026-11-26T12:39:27+08:00"
+      "count": 177,
+      "lastSuccess": "2026-11-27T12:43:31+08:00"
     },
     {
       "id": "south",
       "name": "南區國稅局",
       "url": "https://www.ntbsa.gov.tw/Rss/5e0e49a811b74b50b5a6486d38374285",
       "status": "ok",
-      "count": 68,
-      "lastSuccess": "2026-11-26T12:39:27+08:00"
+      "count": 69,
+      "lastSuccess": "2026-11-27T12:43:31+08:00"
     },
     {
       "id": "taipei",
       "name": "臺北國稅局",
       "url": "https://www.ntbt.gov.tw/Rss/41ae3594197f4f69b47753ce08188516",
       "status": "ok",
-      "count": 283,
-      "lastSuccess": "2026-11-26T12:39:27+08:00"
+      "count": 282,
+      "lastSuccess": "2026-11-27T12:43:31+08:00"
     }
   ],
   "articles": [
+    {
+      "id": "d358914f9072896b1913",
+      "url": "https://www.ntbsa.gov.tw/singlehtml/5e0e49a811b74b50b5a6486d38374285?cntId=89d83808fded45ac8177b5105f9467b8",
+      "title": "潮州稽徵所將於12月8日開始兌換「喜氣洋洋迎新春」日月桌曆！",
+      "date": "2026-11-26",
+      "source": "南區國稅局",
+      "sourceId": "south",
+      "category": "其他稅務",
+      "summary": "為迎接新曆年的到來，財政部南區國稅局潮州稽徵所將舉辦「喜氣洋洋迎新春」租稅宣導活動，藉以宣導租稅常識及鼓勵民眾購物消費使用載具儲存雲端發票。 該所表示，自115月12月8日(星期二)上午9時起，民眾只要捐贈115年11-12月期未登錄機關團體或營業人統一編號且每張消費金額新臺幣10元(含)以上之雲端發票5或10張（或紙本發票10或20張），即可至該所(地址：潮州鎮永康街66號)1樓志工服務櫃檯兌領…",
+      "summaryType": "官方摘要節錄",
+      "firstSeen": "2026-11-27T12:43:31+08:00",
+      "contentHash": "f2e75f9ef4456b5908d0c2d0ee033e5b87bf5039d7ae70ba9eca7558800f7ba3"
+    },
     {
       "id": "fa23e880fd5c13a7458f",
       "url": "https://www.ntbsa.gov.tw/singlehtml/5e0e49a811b74b50b5a6486d38374285?cntId=e860a15e3b1e4a9fb9b4e5be8f7d6b45",
@@ -596,7 +609,7 @@
       "summary": "財政部高雄國稅局表示，為傳達「珍惜自身健康，勿購買來歷不明菸品」及「人人反私菸，有稅才幸福」之正確觀念，該局前鎮稽徵所將於115年11月29日(星期日)上午9時30分至11時30分，假高雄市立圖書館總館1樓廣場(高雄市前鎮區新光路61號)，舉辦115年度防制菸品稅捐逃漏租稅宣導活動「全民藝起來，遠離私劣菸」。 該局說明，活動當天現場設有音樂表演舞台，可自由入座欣賞古箏、吉他之樂團表演，還有防制菸品…",
       "summaryType": "官方摘要節錄",
       "firstSeen": "2026-11-19T11:56:44+08:00",
-      "contentHash": "1224fd3b6084cfdf6e8425ed2815c589cc0d70e8efa31ea5115b9b1f9a7339f1"
+      "contentHash": "0e072bdf9ccb68a4a5cd14fccb1787c66a2f593aa415795eb6bdc9fd1787d472"
     },
     {
       "id": "359711e84090566bfa65",
