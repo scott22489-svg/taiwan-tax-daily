@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T12:43:31+08:00",
+  "updatedAt": "2026-11-28T12:28:21+08:00",
   "sources": [
     {
       "id": "central",
@@ -7,15 +7,15 @@
       "url": "https://www.ntbca.gov.tw/Rss/3c844e426e9c4b5ebcaaa18694d7e230",
       "status": "ok",
       "count": 77,
-      "lastSuccess": "2026-11-27T12:43:31+08:00"
+      "lastSuccess": "2026-11-28T12:28:21+08:00"
     },
     {
       "id": "kaohsiung",
       "name": "高雄國稅局",
       "url": "https://www.ntbk.gov.tw/Rss/8edee6a2f90d4254a5e8d38c1db38137",
       "status": "ok",
-      "count": 213,
-      "lastSuccess": "2026-11-27T12:43:31+08:00"
+      "count": 215,
+      "lastSuccess": "2026-11-28T12:28:21+08:00"
     },
     {
       "id": "mof",
@@ -24,7 +24,7 @@
       "taxOnly": true,
       "status": "ok",
       "count": 871,
-      "lastSuccess": "2026-11-27T12:43:31+08:00"
+      "lastSuccess": "2026-11-28T12:28:21+08:00"
     },
     {
       "id": "north",
@@ -32,7 +32,7 @@
       "url": "https://www.ntbna.gov.tw/Rss/374fe8c4b18e48c691a6806ac02b9984",
       "status": "ok",
       "count": 177,
-      "lastSuccess": "2026-11-27T12:43:31+08:00"
+      "lastSuccess": "2026-11-28T12:28:21+08:00"
     },
     {
       "id": "south",
@@ -40,7 +40,7 @@
       "url": "https://www.ntbsa.gov.tw/Rss/5e0e49a811b74b50b5a6486d38374285",
       "status": "ok",
       "count": 69,
-      "lastSuccess": "2026-11-27T12:43:31+08:00"
+      "lastSuccess": "2026-11-28T12:28:21+08:00"
     },
     {
       "id": "taipei",
@@ -48,10 +48,75 @@
       "url": "https://www.ntbt.gov.tw/Rss/41ae3594197f4f69b47753ce08188516",
       "status": "ok",
       "count": 282,
-      "lastSuccess": "2026-11-27T12:43:31+08:00"
+      "lastSuccess": "2026-11-28T12:28:21+08:00"
     }
   ],
   "articles": [
+    {
+      "id": "99df73aeccc783c0932e",
+      "url": "https://www.ntbk.gov.tw/singlehtml/8edee6a2f90d4254a5e8d38c1db38137?cntId=90a40bf60feb48f0b709066acbddd353",
+      "title": "將外送平台發票歸戶到手機條碼，雲端發票管理更便利",
+      "date": "2026-11-27",
+      "source": "高雄國稅局",
+      "sourceId": "kaohsiung",
+      "category": "營業稅",
+      "summary": "隨著行動裝置普及與消費習慣改變，使用外送平台訂餐已成為民眾日常消費常見的方式之一，財政部高雄國稅局表示，為響應節能減碳政策並提升對獎便利性，民眾可將外送平台服務費發票歸戶至手機條碼並設定匯款帳戶，不僅能自動對獎，還可享有雲端發票專屬獎的雙重對獎機會。 該局表示，為鼓勵民眾使用載具儲存雲端發票，財政部電子發票整合服務平台提供將各類載具歸戶至手機條碼之服務，民眾可將各種消費載具（如：外送平台會員載具、…",
+      "summaryType": "官方摘要節錄",
+      "firstSeen": "2026-11-28T12:28:21+08:00",
+      "contentHash": "916576262497bb0bc8bcfafedf745e21fba7d7e1e3943cc6a3a0e48a9afa939c"
+    },
+    {
+      "id": "d39e3ff603a3f0423d1b",
+      "url": "https://www.ntbk.gov.tw/singlehtml/8edee6a2f90d4254a5e8d38c1db38137?cntId=06db1d2c50204012a8d6579647a4b024",
+      "title": "高雄國稅局表揚115年度績優營業人及績優稅務專業志工誠信納稅樹立典範",
+      "date": "2026-11-27",
+      "source": "高雄國稅局",
+      "sourceId": "kaohsiung",
+      "category": "其他稅務",
+      "summary": "財政部高雄國稅局於115年11月24日（星期二）下午2時30分假寒軒國際大飯店國際廳舉辦「115年度績優營業人及績優稅務專業志工表揚典禮」，由許局長寧佑代表財政部頒發獎牌並致贈紀念品與績優營業人，同時頒發錦旗與績優稅務專業志工；當日計有34家績優營業人代表親臨受獎，共享這份榮耀。 典禮特別邀請視障音樂團體現場演奏「火影忍者」、「Can You Feel the Love Tonight」、「花木蘭…",
+      "summaryType": "官方摘要節錄",
+      "firstSeen": "2026-11-28T12:28:21+08:00",
+      "contentHash": "fb9acdaefaae49bbc18e2e5f18c7c232a6604886c7967e51f0e1ce73df70d1c7"
+    },
+    {
+      "id": "af66aadf79c18d9320d8",
+      "url": "https://www.ntbca.gov.tw/singlehtml/3c844e426e9c4b5ebcaaa18694d7e230?cntId=fcb60ec740634ce98b35b672f2439b1f",
+      "title": "個人因調職、非自願離職因素交易持有期間在五年以下之房屋、土地，稅率為20%，須有實際居住事實",
+      "date": "2026-11-27",
+      "source": "中區國稅局",
+      "sourceId": "central",
+      "category": "其他稅務",
+      "summary": "財政部中區國稅局大屯稽徵所表示，財政部110年6月11日台財稅字第11004575360號公告略以：「所得稅法第14條之4第3項第1款第5目規定個人因調職、非自願離職或其他非自願性因素交易持有期間在5年以下之房屋、土地情形如下。…一、個人或其配偶於工作地點購買房屋、土地辦竣戶籍登記並居住，且無出租、供營業或執行業務使用，嗣因調職或有符合就業保險法第11條第3項規定之非自願離職情事，或符合職業災害勞…",
+      "summaryType": "官方摘要節錄",
+      "firstSeen": "2026-11-28T12:28:21+08:00",
+      "contentHash": "b8b56c2223e351b8b0fbe1864b26f42e8e3245ab6de4e1ab1ae23b63209e30ef"
+    },
+    {
+      "id": "e8896da35e5ddef9b70c",
+      "url": "https://www.mof.gov.tw/singlehtml/384fb3077bb349ea973e7fc6f13b6974?cntId=da2e9ffddfcd42aaaac76291382ffff9",
+      "title": "將外送平台發票歸戶到手機條碼，雲端發票管理更便利",
+      "date": "2026-11-27",
+      "source": "財政部",
+      "sourceId": "mof",
+      "category": "營業稅",
+      "summary": "隨著行動裝置普及與消費習慣改變，使用外送平台訂餐已成為民眾日常消費常見的方式之一，財政部高雄國稅局表示，為響應節能減碳政策並提升對獎便利性，民眾可將外送平台服務費發票歸戶至手機條碼並設定匯款帳戶，不僅能自動對獎，還可享有雲端發票專屬獎的雙重對獎機會。 該局表示，為鼓勵民眾使用載具儲存雲端發票，財政部電子發票整合服務平台提供將各類載具歸戶至手機條碼之服務，民眾可將各種消費載具（如：外送平台會員載具、…",
+      "summaryType": "官方摘要節錄",
+      "firstSeen": "2026-11-28T12:28:21+08:00",
+      "contentHash": "916576262497bb0bc8bcfafedf745e21fba7d7e1e3943cc6a3a0e48a9afa939c"
+    },
+    {
+      "id": "189ae85b666c2f9167c6",
+      "url": "https://www.mof.gov.tw/singlehtml/384fb3077bb349ea973e7fc6f13b6974?cntId=7f9434307ede4680ae4616e6abe493e8",
+      "title": "高雄關籲請商民注意進口白菜增列輸入規定代碼「465」，應於通關時檢附相關產地證明文件",
+      "date": "2026-11-27",
+      "source": "財政部",
+      "sourceId": "mof",
+      "category": "其他稅務",
+      "summary": "高雄關表示，經濟部國際貿易署（下稱貿易署）於115年9月24日以貿管理字第1157030111號公告，自115年10月8日起CCC 0704.90.10.00-8「白菜，生鮮或冷藏」增列輸入規定代號「465」，進口時應檢附出口國、產製國政府或其授權單位出具之產地證明，或貿易署公告出口國與我國諮商取代該國產地證明之文件。除進口供自用且數量未超過6公斤者得免附外，未依規定檢附者將不得進口，請業者務必遵…",
+      "summaryType": "官方摘要節錄",
+      "firstSeen": "2026-11-28T12:28:21+08:00",
+      "contentHash": "6472fd448ff2d5b1a6d7255210a5459463dbcefecfc8c3c30ee281bdd05a28b1"
+    },
     {
       "id": "d358914f9072896b1913",
       "url": "https://www.ntbsa.gov.tw/singlehtml/5e0e49a811b74b50b5a6486d38374285?cntId=89d83808fded45ac8177b5105f9467b8",
